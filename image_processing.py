@@ -18,18 +18,38 @@ for i in range(len(file_list)):
     
     image.close()
 
-    
-import matplotlib
-import matplotlib.pyplot as plt
 
 from skimage import io
 
-from skimage.data import page
+#test binarization
+
+img = io.imread("dataset/" + file_list[34])
+io.imshow("dataset/" + file_list[34])
+io.show()
+
+import matplotlib.pyplot as plt
 from skimage.filters import threshold_sauvola
 
-thresh_sauvola = threshold_sauvola(image, window_size=15, k = 0.3)
+thresh_sauvola = threshold_sauvola(img, window_size=15, k = 0.3)
+binary_sauvola = img > thresh_sauvola
 
-binary_sauvola = image > thresh_sauvola
+binary_sauvola = binary_sauvola * 1
+
+int(binary_sauvola)
+
+io.imsave("test.png", binary_sauvola)
+
+
+
+
+
+binary_sauvola = img > thresh_sauvola
+
+print(thresh_sauvola)
+
+io.imshow(binary_sauvola)
+
+io.imsave("test.jpg", thresh_sauvola)
 
 
 plt.subplot(2, 2, 4)
