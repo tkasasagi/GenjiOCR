@@ -20,7 +20,7 @@ from skimage.color import rgb2gray
 image = rgb2gray(img)
 
 window_size = 21
-k = 0.2
+k = 0.3
 
 thresh_sauvola = threshold_sauvola(image, window_size=window_size, k = k)
 
@@ -32,5 +32,9 @@ plt.imshow(binary_sauvola, cmap=plt.cm.gray)
 plt.axis('off')
 
 plt.show()
+#plt.savefig("test.png")
+from skimage import img_as_ubyte
 
+biimg = img_as_ubyte(binary_sauvola)
 
+io.imsave(biimg, "test.png")
