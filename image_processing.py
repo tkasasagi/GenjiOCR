@@ -30,15 +30,18 @@ io.show()
 import matplotlib.pyplot as plt
 from skimage.filters import threshold_sauvola
 
-thresh_sauvola = threshold_sauvola(img, window_size=15, k = 0.3)
+thresh_sauvola = threshold_sauvola(img, window_size=15)
 binary_sauvola = img > thresh_sauvola
+plt.imshow(binary_sauvola, cmap=plt.cm.gray)
 
-binary_sauvola = binary_sauvola * 1
+#binary_sauvola = binary_sauvola * 1
 
-int(binary_sauvola)
+
+
+
 
 io.imsave("test.png", binary_sauvola)
-
+plt.imsave(fname = "test.png", arr = binary_sauvola*1, cmap=plt.cm.gray)
 
 
 
