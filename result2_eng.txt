@@ -1,0 +1,2104 @@
+﻿Epoch 1/60
+25052/25052 [==============================] - 17s 687us/step - loss: 2.5395
+
+----- Generating text after Epoch: 0
+----- diversity: 0.2
+----- Generating with seed: " and the under leaves are nipped again b"
+ and the under leaves are nipped again be the be and the the mang the be the so the whang the the mang the mang the the the mang the math the thas the the the the mang the the mo the mang the wore thas so the the shath the the the band the mang the long the mang the mong the the mang the shand the mang the the ming the mase the mang the the mang the math the mo ght the the the mang the the wath the some be the shang the mand the be the 
+----- diversity: 0.5
+----- Generating with seed: " and the under leaves are nipped again b"
+ and the under leaves are nipped again bath me be bang the bad be be be i the and the the ath i se the the shous yow the that me be und do do fome se of tha the math it the mase mo co lo che ran the soule thame be be the the seand and in thase shath a sle the in mame the mome me the hand mang the be in th thin th the bbon thand the the fot and the the it the rays the mome af and th the be me not tho mome the made fo the that it the i th
+----- diversity: 1.0
+----- Generating with seed: " and the under leaves are nipped again b"
+ and the under leaves are nipped again bu.
+thidnaved in beaty thi gs bh i so d cowt bc an sheve ves  wh maon thomn the whids to felk bu noi eost the ass that .
+in, rase ind in my fow daiigh smong th thed rs mencon ut back ffou tire thamn apowe mhe de ust at tht shei gowht dhangpw the malak hong yow shose an by,t beser vow th tine ro me shang thay it.
+th thid be not to the haoi rinh mf whams ghd.
+st gr,  th gavy ca ching eadt of midas,  
+----- diversity: 1.2
+----- Generating with seed: " and the under leaves are nipped again b"
+ and the under leaves are nipped again be fcl st madel fow buade monge bhyd bamidulone bay?sst mingif.
+the saghasheugace wolpa?r you she folds whol mes dlg age widh trambmnofe thaca sandse   beard.
+shs maledte nt migh  mly nou seawht thn altt,nast be ge iot vuny of yon thesk.
+ou besare hot seat in dc?
+gher hang ch then ti isve bd, shiyd land, thi the.
+itr it thasn besgenhar, tea  ancind bu?
+ghlrqsl  i u balqeln, the mayk cole sikm?
+a th
+Epoch 2/60
+25052/25052 [==============================] - 17s 694us/step - loss: 2.0146
+
+----- Generating text after Epoch: 1
+----- diversity: 0.2
+----- Generating with seed: " that i will not cast them off.
+my sleev"
+ that i will not cast them off.
+my sleeve the wave the ware the ware the wave the warl the wath the wave the wall the wast the ware the ware the warl the wave the wave the was the ware the wave the wave the wart the wath the ware the wath the wave the wart the ware.
+the wall the wath the ware the wing the wast the wave the ware the was the ware the ware the wave the wave the wing the wast the wave the wave that the wave the wath the wav
+----- diversity: 0.5
+----- Generating with seed: " that i will not cast them off.
+my sleev"
+ that i will not cast them off.
+my sleeve wath the long though the wate we wath my the wame sorrer, the to grad on wares me dring, the wat the dees werl we must it the butne,  the wast as the wall the wath that the wart at the sum.
+the tay the wave the wang were the wall the sumning the berate the glow, the wive the dome the with the wing the morn,  the wist i ling the world the cave on the grast the beess mage the wave grees the were t
+----- diversity: 1.0
+----- Generating with seed: " that i will not cast them off.
+my sleev"
+ that i will not cast them off.
+my sleeve teallilg.
+d.
+sealist i rswe's ?
+the tadees on the avleare of tha the?
+seld not, wanls,  in the rocast know aks frree.
+ on the waw moueven hers wht yor fradren antee.  ald gy tile have bly wave dikn fering,  an whe not  though the lad.
+the fravy?
+buktow thing, cant the ware.  in the incred a ghance cly.
+ass day.  and wht ils be.
+whigh our esss the firnd.  the buy the deme now my unders.
+i chould 
+----- diversity: 1.2
+----- Generating with seed: " that i will not cast them off.
+my sleev"
+ that i will not cast them off.
+my sleevet, frude i drint bur wases west eint ory whise my mroochs.
+i thas. be dase slowe clos thamtain of turigh ?
+shigca me the wishb?
+i ned of i   lucky do chow ratheld,.
+the drinth lyyy lish i jeth laytumn. sounging may.
+agltr tpe was you talpandi―d.
+the wat obd hasm as,  besut hag fyowemen thomougk iaaghant.
+are dhatn the wromnight.
+olitsingannders.
+wiskweld ndghing rolcingell hige yer deach wow havi
+Epoch 3/60
+25052/25052 [==============================] - 18s 707us/step - loss: 1.8165
+
+----- Generating text after Epoch: 2
+----- diversity: 0.2
+----- Generating with seed: " to follow the call of the nestling cran"
+ to follow the call of the nestling crange the seare the way the slower brough the reart and grours of the slower and grare the ser and grase some.  the ser in the roo so the sering the sering the sering the seare the sead of the seare who grours of the seare the see so the sering the seare the seare the way the slower in the warter the sering the seave the sering,  the ser the slow the ser of the slowe mo the slower have serare the sor
+----- diversity: 0.5
+----- Generating with seed: " to follow the call of the nestling cran"
+ to follow the call of the nestling crange your ware the ond reart,  that but blos of the may of the anour the sornot hor row the sleeves, core me shore the roant.  and in the slowel shas be sur and not sermorn the seareld the beave wast come mays and have mast for dre.
+shall all the groumt the may the her leam of the have slomes in the sead be farly erst.
+i as the way a we hor bree seare the sams the slow on the sleeve in the gade the 
+----- diversity: 1.0
+----- Generating with seed: " to follow the call of the nestling cran"
+ to follow the call of the nestling crane. if to the all jeef of, lerurbers ase will,  that hip on i trou hou shough terentt for, the hars eanto  fol comay sna
+my is in the score.
+tilly, his do and thay by for ano the po bamy wathick.  one the temor fill ont no an ne co lotge than my flow glkors,  thang it wat, among groo miie mmine, blocoom to simeds.  nil to row, my her roo no  the grir this ike meack vo sorne the ingher ma.t and grig
+----- diversity: 1.2
+----- Generating with seed: " to follow the call of the nestling cran"
+ to follow the call of the nestling crancatm.
+ avong ciewien fall int to coprom, thought.
+the eron sprhel an whrumto beateld the ir.
+if stad, the des arere, in my alor, mu.  dod chisl ceventel you metmens, fitn has dr slease has fiedse the hem inope.
+that that syoun i lole so may bursomtletem,  i grave anch ond hatee carmertes do toms.
+in challlet aist cama for rarmough the tok  not but fithio srared rutt  onak, how for hef is? has irbe
+Epoch 4/60
+25052/25052 [==============================] - 18s 716us/step - loss: 1.6838
+
+----- Generating text after Epoch: 3
+----- diversity: 0.2
+----- Generating with seed: "ins.  do your thoughts retum to the vill"
+ins.  do your thoughts retum to the vill of the wants.
+the longles the seall the roon the wants.
+the wants in the winds of the roon of the wants.
+i meare the winds of the wear of the wants.
+the were the wants the wants of the seall heave the sealler.
+the flow the wants the seall the wants of the wears.
+i some it the seart and it the reave the seall to the seall.
+i some the rear and the heave the wants of the reave the rear.
+who the want
+----- diversity: 0.5
+----- Generating with seed: "ins.  do your thoughts retum to the vill"
+ins.  do your thoughts retum to the vill ne roand.
+so flor the flow riteand is this go ase.
+the wants you the path heart, and the her thoughts of the rear.  and it the racong as the flost of the wanch the lines.
+corn of the heart of the dew in the mines.
+not the prom the flow the mountain there srount.
+dreace the somn the mountt at the roantwere.
+that string dren is the mountain there the world,  and eave they the reave in is the moon o
+----- diversity: 1.0
+----- Generating with seed: "ins.  do your thoughts retum to the vill"
+ins.  do your thoughts retum to the villaglen  doesed it even, if ag these head and its.
+not comeles soun, i sen hom chorlo lof sholl,  for the all in longy iney behs ment wint.
+this mola of over when yot the dew, then a sumnot
+rear  ald that gureln.
+the natusct is this antuntming, they grans not to ler , floming off ne sarnow anchon.  thermough, way. to these night, we the flowe you longht, nots from moon,  tore is roanemred acene hive
+----- diversity: 1.2
+----- Generating with seed: "ins.  do your thoughts retum to the vill"
+ins.  do your thoughts retum to the villackfomfaghino.  whacesn putatce mountyey sthos, my.anibp,  buy fron vould of amore, to flee oft the line,  my stamther dains they upoppeages ntanc!  mre vongs forewhel thes the rinesaiting.  i to the mines buts boit wilt and frow sher.  but tells'se they iny inghent of akst your  wa twit saccare wees toolh,
+is then  an myomet tols, of cead.ing ginc lefre es comer sotn, bete. de, not come,  for the
+Epoch 5/60
+25052/25052 [==============================] - 17s 688us/step - loss: 1.5885
+
+----- Generating text after Epoch: 4
+----- diversity: 0.2
+----- Generating with seed: "nd the next.
+the voice of the evening ci"
+nd the next.
+the voice of the evening cimand to the sealt.
+and the see on the spring the see that wild not the spare the sears of the seads.
+the spade that that the sead the mountain see.
+the see that the mountain the sears of the sleeves.
+the see in the rain the spring the sleeves.
+the seart of the sead not the sead not the sleeves,  the see the see is the sead not the roof of the seart to the river  the sead not the sead it the see th
+----- diversity: 0.5
+----- Generating with seed: "nd the next.
+the voice of the evening ci"
+nd the next.
+the voice of the evening cinnot on the evening to the praies.
+that that be ind i deakt of the clouds.
+and of the ond heart the sleeves to the ond not with that gand?
+the rimase to the seam to the seell to me.
+the river again the gods of those spare and its winds.
+the i had not the stay of the spell the canded to me the mountain dies.
+day may the pright of the have that the somes,  that which not the hat not gonagith see lof
+----- diversity: 1.0
+----- Generating with seed: "nd the next.
+the voice of the evening ci"
+nd the next.
+the voice of the evening cillid my mask.  and most of the had not heart on twall wither.
+wild gan. the ond eveaves,  and have grasses.
+aitutt the moon that the ree, your makts fathe these gomy you changed.  in  but gloom amones to feace for the spare.  no asly dast so be in the woild not ded ad the museer  and of this will nit neads rut leave  what meat this count of the snawind gake the sid me. in the meeps  is my flowered
+----- diversity: 1.2
+----- Generating with seed: "nd the next.
+the voice of the evening ci"
+nd the next.
+the voice of the evening cinss dringh the cut lade  these that is  far tho cears in no mines on hive dleer fords.
+the waild upontce, au doentt ut:n in might unnade,  sreammobing hast in noiteads?
+whaicr itangerse alro, that sum,  love greave know of day nig these yet to wande for thes, name eaft forge.  no the spoundo in this 
+ofd your onger shell amirawh  quise ope died maghtse mighd be,  alldigy of you i wall reult.  watl
+Epoch 6/60
+25052/25052 [==============================] - 17s 694us/step - loss: 1.4917
+
+----- Generating text after Epoch: 5
+----- diversity: 0.2
+----- Generating with seed: ".  how can she say that they are lowly b"
+.  how can she say that they are lowly be becked.
+i thoughts i deepered you so blossoms of the seedling for the waves.
+the seedly the mountain the seedly fires.
+i wand that the sam on the mountain slowel.  the mountain which the snow the waves the sand.  the seedling the seedly the seedly the sach.  that i to not the seedly the seedly the sand.  the seedly the seedly the seedly the seedless.
+you so not the mountain slowers the seedles.
+
+----- diversity: 0.5
+----- Generating with seed: ".  how can she say that they are lowly b"
+.  how can she say that they are lowly blossoms  whid sond not the wath the sand itsell which have drencain me.
+strands who i to not pientle seemould have behere.
+on on i lade of the world of the seellight.  i do not lose that i do not go back the sand.
+what thoughts be betuld it of the sam ond now as a burne.
+so than i knows the wath the seedly the mayst itsermon.  i dew the waver this now have dose of the sarnd who is for the mountain
+----- diversity: 1.0
+----- Generating with seed: ".  how can she say that they are lowly b"
+.  how can she say that they are lowly be be wheness so that rouch them give thought, you. rinesh i leave dallesing wyonioher.
+the maven it who the haviniss strads,  thoughts that thi stear what show the seddermaghs.
+it prever, betchive the seeplone that lavesfor go you  latty things boads.
+a wald in i tome mirong that gath the knoters.
+now now priec my cass of fallow might ot lonedw,  the moon.
+it and who did not my slooks thoukh the w
+----- diversity: 1.2
+----- Generating with seed: ".  how can she say that they are lowly b"
+.  how can she say that they are lowly by you.  to mysing a mu.mil geddestly saclofi,  ate sprrs has for a glvome that lea-sushi to ulw,o. ield, be shall f ne that that frachs these  this altrea.
+i sachelfund to eveny me there who would.
+ end enculd on yen it see  i seewnot mast mountioning co censeand the waigen.
+the winds the fyosowheraly tears the moadd.  i day the choughsswowder serines aromawhi..
+ a sely,serto evening, ther may us 
+Epoch 7/60
+25052/25052 [==============================] - 18s 715us/step - loss: 1.4089
+
+----- Generating text after Epoch: 6
+----- diversity: 0.2
+----- Generating with seed: ",  to let her know that the end of my li"
+,  to let her know that the end of my life behind.
+i know the waves the waves are the waite.  the past i thought it which i have be itser,  the waves the see the waves the shold which ither the waves the came in the cather,  the waves the waite behind the see the waves ath the world.  the waves the waves the waves the world of the blossoms  meet it which he which i have be and cannt the catness me.
+it which i heart of the world when sha
+----- diversity: 0.5
+----- Generating with seed: ",  to let her know that the end of my li"
+,  to let her know that the end of my light.  how can our life be a temart of the world.  i have weasing it in the waves the is the mountain.
+i cangoaing to gream of in the some that i heeves.
+it which he pore be aiter with the sholds.
+i loager the brine it cannot reed we thoughts of the waves upon the way world.  all our weare in the see it will i trands?
+we see the cannot with thought will sholds of leaves.
+we see the have be beabain 
+----- diversity: 1.0
+----- Generating with seed: ",  to let her know that the end of my li"
+,  to let her know that the end of my lift.  the but betbeless?
+nou go beok weating bloobait for comeltrow,  they kpet shalt i knots i know the reeds.
+i fillow know fold couch of which iser,  yec bendinot blain, of the rivery soids cound.  sad for free brink doan, of her, for,  the iamen mysorc fill.
+my seallyse in the morns of the not with meet.  theye caustepming spill, at ceaps the aredccind.
+your linen why sorky this pimake fir the 
+----- diversity: 1.2
+----- Generating with seed: ",  to let her know that the end of my li"
+,  to let her know that the end of my lighted beach glee― in?
+we thoughts woll, its coull mails your fithy.chowering a might wind cannot at its.
+baw pleachaner, shall wetiek buy cannot suen  bmined your sleeves, they brinei to sleef this mights.  are sumings of mownow think comads, unferoth.  bickine yearn agabllack grvess tere itse.
+dointi you when wets pihter uphat trowilding canyoile.
+sus it what mexting spearetulo ?
+of themor brined
+Epoch 8/60
+25052/25052 [==============================] - 18s 719us/step - loss: 1.3333
+
+----- Generating text after Epoch: 7
+----- diversity: 0.2
+----- Generating with seed: "ected.
+it is the day of the donning of s"
+ected.
+it is the day of the donning of seam the seestin the waves  and i day the mountain dist the sames the see it will.
+and i do not the seads of the waves of the sadden.
+dew the mountain distwere the waves of the sack.
+i gaddy the waves of the waves of the waves of the waves  and i long of the waves of the see it wear.
+i gaves of the waves of the seedling the see it whom the sack of the waves  and the see that sheak of the waves and 
+----- diversity: 0.5
+----- Generating with seed: "ected.
+it is the day of the donning of s"
+ected.
+it is the day of the donning of showers to the gaves  to the same may of the grasses of the waves of the leave of mine.
+with the sleeves, so the speeve at the waits an i heaves  of on the grasse and the sack the river,  and i am i agoned from the is bet you.  the may of the waves upon the waves of the sadress.
+so fear me of the waves of the morn of the evening days may see it who on the world reach the mist.
+i am not the river of
+----- diversity: 1.0
+----- Generating with seed: "ected.
+it is the day of the donning of s"
+ected.
+it is the day of the donning of strach of its years.
+dhen forget thes ring, upon my see of the same.
+you make nough in her and sad gock we led,  wht speruse?
+to the sleeves of the having join a dist.
+for those reading we seact me. in knownatiknoun  i not these now knooring must away, and in my sow daenn.
+dintan shoul riage itiny waves a crenn in a chose.  surning tropeakliges the dews of the mountain vireh that grasses lill left 
+----- diversity: 1.2
+----- Generating with seed: "ected.
+it is the day of the donning of s"
+ected.
+it is the day of the donning of svened.  that fleeves the scasses molt whour, where is of this riched dew are is mourn.
+dre.
+upon hw wall be dibd yet you on thoughts and heves'. indy.
+and though nib not from the dewher upob frothens ok, hold the reck unoentbe enches,  you see go ua the ore, though halt, mn at the clear, so eed ad the fidl.
+it on ay them.
+arbrach steak te ridgh drass again leet upon the bluss while.  and now on tn
+Epoch 9/60
+25052/25052 [==============================] - 19s 739us/step - loss: 1.2656
+
+----- Generating text after Epoch: 8
+----- diversity: 0.2
+----- Generating with seed: "my hope is that you hope for something b"
+my hope is that you hope for something bent reak.  the waves a singles dreams of the waves of the waves of the world,  and when i know not the waves of the waves of the waves of the waves of the waters of the heart.
+do not know them the waves its now not keap.
+i do not the waves of the waves of the waves  i mountain my seedly of the heart of the waves of the waves of the waves of the world.  and we so bring the spring to the waves of th
+----- diversity: 0.5
+----- Generating with seed: "my hope is that you hope for something b"
+my hope is that you hope for something berose the winds.
+my saddent for silly its sond this world,  and not be at the waves of does not gopping sodly.
+i longed to gring of the world of longess,  and not would i have net in comes my sountain from tears of the waves of meate we stien,  and wavang surnow of these sackoost waves light.  when she waven would i see the see your see.
+the see if the heart of the waves of minted from these wange
+----- diversity: 1.0
+----- Generating with seed: "my hope is that you hope for something b"
+my hope is that you hope for something barr?
+she hol in yould you coughts pine whose a lister pashes in droad.
+why shorly one long ago,  a priies makboo to rein, once when youd wist is prom these see line a neart?
+thrountiin back these race among to now retuin.  do not one opren so might of now bonded upany the trraffly.
+on sarbloig to be as stern the fur's.
+the lods. not fill not poumto no heart as that the heavens, long,  i how do.n s
+----- diversity: 1.2
+----- Generating with seed: "my hope is that you hope for something b"
+my hope is that you hope for something brance,  but moont of sponed triell not dree. as the burn,  the my soir, of inly burtt of fingers,  you arsh would of mounthing will noted not,  not parkes you waiget hopting mitts prom weatinesd beniagens?
+so hor waves lethesy now batture seems me,  which hees fromelers whici sleeve has might.
+ta dalk ancient nisted have to how of voieht intigat us.
+lite blose finging seach then wewakning seoms?
+w
+Epoch 10/60
+25052/25052 [==============================] - 17s 693us/step - loss: 1.2022
+
+----- Generating text after Epoch: 9
+----- diversity: 0.2
+----- Generating with seed: "
+even on a night of raging tempests  i d"
+
+even on a night of raging tempests  i do not the spring on the same on the would on the same.
+should have come to the spring on the waters  the see the see the spring on the same on strang.
+where in the same of slower the same on the would.  and not the spring of the sannot so not the would gaver.  and not the spring of the shoor of the would one who the sand.  they spring, the sannot the seast of the same.
+should have come to the spri
+----- diversity: 0.5
+----- Generating with seed: "
+even on a night of raging tempests  i d"
+
+even on a night of raging tempests  i do not the still net they sparing in the some.  the dring behain the way the same the mayss,  they so fortht it it who he way of the shores of the same.
+shrow wether mysers of the shall math the one have day.
+your they which has not the sum on the staytress so finver.  bender they speak of grass from sears, more beciofs.
+the would not a the pine it who he which he lonely flowers  for so lonel light
+----- diversity: 1.0
+----- Generating with seed: "
+even on a night of raging tempests  i d"
+
+even on a night of raging tempests  i died not the brings my head your sleeves,  and sad which suad a glist fall i wallnt  had not know, to in it i might to withs,  as thooe o ritr of and cammon the vister we to makes hop.
+a are toaking min come of showed theirs.  be derk my nights dark me.n ughe winds.
+the moor, this leave not the seast of tle findrer,
+go behaite must lithed to meeting.  your the grass, with these spill of recuies,  b
+----- diversity: 1.2
+----- Generating with seed: "
+even on a night of raging tempests  i d"
+
+even on a night of raging tempests  i deeely to plend by has deep thet  abld.
+at have nome to cadn themort hot your itso.  nothing in a tears hend of thoo then way upse dwath utanight.
+should even we let so and grass baccoshed by of or groms.
+a call leaves of stimadd the emay be are the stors.  the would how cantpeds rively has in your sleeve.,  thin i ?igrting must for mide', painse sky then grass with williny me?
+do nothtutts of note
+Epoch 11/60
+25052/25052 [==============================] - 18s 717us/step - loss: 1.1435
+
+----- Generating text after Epoch: 10
+----- diversity: 0.2
+----- Generating with seed: " guard the waters.
+waking from the dream"
+ guard the waters.
+waking from the dream not a to the seady.
+it is the seady of the wanter, the seady.
+ing the wanters the dew of the way of the waves  the wanting the mountain mists of the waves and gand.
+it meat the pine which is the seady mists of the cannot sads.
+the seedly cannot when and now and who keet of the hers  for the wanter, to the seady of the cannot and the seady.
+the mountain mills of the wanter to the hers  for the mou
+----- diversity: 0.5
+----- Generating with seed: " guard the waters.
+waking from the dream"
+ guard the waters.
+waking from the dream of the evening chould from her.  the dew of the call alone its flows me bes,  and who underst no pree in the fingr.
+a cally tarse the seady of the reeds it to seep.
+not shall not come i to not which here of the raniones.
+the mountain my seald my seady with the and gone?
+what she do not to kees the spill me teaream.
+that i take and who the somean, find evening cite.
+will change its fill call the s
+----- diversity: 1.0
+----- Generating with seed: " guard the waters.
+waking from the dream"
+ guard the waters.
+waking from the dream. did and it is betuen,  do no more it to my sleeve of the nast.  my svoness, it toddent be that see that avertwide?
+choas who to make for the wanting the sich not tears.
+wa chassome thes its lovely that he wantern myself stres.
+not mountain snot summon om?
+griep and cannot upon utwern.
+the world has beet take these heaging my wanger  lond your do not reming the gless to from the world. i gall sho
+----- diversity: 1.2
+----- Generating with seed: " guard the waters.
+waking from the dream"
+ guard the waters.
+waking from the dreams to be daiss, dark known.
+deen it mill, you what would what the firesion must for curneat  of a rue pregetito oney for the pway upon   puck deeplikast for the as of mefor their reselin upoo wav?
+you rring sy lecred so do now and verved  do conitned bedey my heagin, and now must eavoot  my crull, and calles, aw it rusnoks,  fincame bunce muet, my sot one. it.
+the heam to me the seedlitess, hil see
+Epoch 12/60
+25052/25052 [==============================] - 17s 694us/step - loss: 1.0975
+
+----- Generating text after Epoch: 11
+----- diversity: 0.2
+----- Generating with seed: "ains.  do your thoughts retum to the vil"
+ains.  do your thoughts retum to the villain my flowers  to breem the winds its will you may in the sacher,  the waves of the world it the sacred my sour wind them who ushall the commor meang  and waves are the fires to the strands,  the spill of the way the springt who ushall the wind.
+it is the waves the moon of the world of the world.  i wist to me to grass my from the waves the wind.
+it my sorrows whom should have the fires.
+i have 
+----- diversity: 0.5
+----- Generating with seed: "ains.  do your thoughts retum to the vil"
+ains.  do your thoughts retum to the villawe for sorelowed so fire.
+the seether the mountain dwerent sky.
+the waite go the waiter, for so thin who is the world.  i heart whom i leave blossoms, shert who sering,  and will you rave of snow roun i sawaspins.
+so fur the fingly myse from the shores it.
+hading might rears, its herping myserfung reach to be,  these sac of you still wet in the sace that is betwerl time,  they the rocks of the s
+----- diversity: 1.0
+----- Generating with seed: "ains.  do your thoughts retum to the vil"
+ains.  do your thoughts retum to the villaw that ate hee you.  on waids comes in te shall boos  among the mountain citurrecherts  i have of sleeves shall my floagain agring to fack.
+the rifen moor which is who knows the world.  how stemo houns we waites unow is, think.
+and its long het hiltect, do not litace. it is allay?
+astion the mumt of the cay is these wordd?
+the day you what to in yet and leaves of itaigr.  that till would for no 
+----- diversity: 1.2
+----- Generating with seed: "ains.  do your thoughts retum to the vil"
+ains.  do your thoughts retum to the villowese.  untaire is for to have day myse fur thoughts upon bl ing  and waves long they my soar whenimisans.
+ay the dewaren come, one latyss, my sleeves,  nou cannot the radied that the summor lefw for sheration deap.
+alicare have gavenchid night.
+its nour dry you not fallows is withrot otrem blossom ue?
+ho autumn evened un, day.  i wishott yew do not deraan, you one leaves a ceep.
+ot one ifdent in
+Epoch 13/60
+25052/25052 [==============================] - 17s 695us/step - loss: 1.0590
+
+----- Generating text after Epoch: 12
+----- diversity: 0.2
+----- Generating with seed: " rests long on the seedling pine,  waiti"
+ rests long on the seedling pine,  waiting the mornings, for the sleeves of the world.  i see the spring are the seedly ing the dews without be at the sawers  i seed its flowers the mooning coll the morning skined spring me,  the seedling pine as the sleeve of the wayst the same.
+i have come to the sleeves of the eaves of the world.  i wanters the seadging sadders the pine.
+i gave the sleeve of the world wet your wingery reacced unceame
+----- diversity: 0.5
+----- Generating with seed: " rests long on the seedling pine,  waiti"
+ rests long on the seedling pine,  waiting the raves, for shall shall i seeping,  the evening drens, i seething i fisher,  and now to temes its not the clouds of the way that sama?
+i seep the way wists, to grass bey may fragrent sad breement here meets of the hers.
+she wat with the sleeves, coult has bee in the heavens,  to was pleel the morning might to tears.
+the moon i seep i seep aglow wet sleeves.
+the cannot forget of the way when 
+----- diversity: 1.0
+----- Generating with seed: " rests long on the seedling pine,  waiti"
+ rests long on the seedling pine,  waiting ono evening may sica lose. when .
+our that me snow rest met crass skill.
+the leasing your lefllice akain tprusts with things alone who waves,  and now not druntawn the might tlees unoarel.  i go not ke peare the waves by need greass.  and we sters, a dose i seepees te me, so leas.  whe the tears abone the morning drensing.
+at bren that to bloom or rringing droptwide,  i sound, you was beane res
+----- diversity: 1.2
+----- Generating with seed: " rests long on the seedling pine,  waiti"
+ rests long on the seedling pine,  waiting the pines io were are it to the serine rocks, evenings   a roiose the sur breefl, roin velyay.
+i did not where th ough us always laves,  but not you sand as the grasming the over.
+it's bonders, you say past my seadging the sleeves,  underen my sai, but came in the tears.
+spring robes, obly sorehts underind do?
+you ree, dream you who ter hod somelan into o wisheriva?  and be obr erving moor wast
+Epoch 14/60
+25052/25052 [==============================] - 18s 702us/step - loss: 1.0250
+
+----- Generating text after Epoch: 13
+----- diversity: 0.2
+----- Generating with seed: "ds  i left you, and the four winds tear "
+ds  i left you, and the four winds tear bring.
+i wist the mountain dreams its not love.
+it call the morning might search and gavernd.  i will cal at the mountain dreams its withred.
+i might with the might the mirror the way that same.
+it cannot peaking dreams it watch the mountain wither showers  i see the prich of the way that summons.
+i gande spring are the mountain with the fade?
+the sleeves as the mountain dreams in the sawely and w
+----- diversity: 0.5
+----- Generating with seed: "ds  i left you, and the four winds tear "
+ds  i left you, and the four winds tear whe heart?
+he who un who day of the down will call it gone.
+the plum whom go of the sown i may i seep the seedly scranged by should you.
+the plungean it see so bren my slowing grassoms  i grass my mountain call the skids.
+it slock the mists this pinys may i glow.
+they spring cones of the world.  i saw do not go of the lods, you do not very.
+so her more which brine our sleeves the flowers  and i ha
+----- diversity: 1.0
+----- Generating with seed: "ds  i left you, and the four winds tear "
+ds  i left you, and the four winds tear nepsing.
+whe may the fill on this waids a sallow taken us. you chang, ever withind of the mountain.
+yearlivedd antumn within moons this gave dry.
+ and gone the moon one now long the dawn  for dew to blore, and that she she raid.
+and why cannot let it will go fommam me oke.  it slorny beyould eys not an unneaping cade?
+the wind est the fiste is the tlieve of you ma?
+on i aglievets,  they with forge
+----- diversity: 1.2
+----- Generating with seed: "ds  i left you, and the four winds tear "
+ds  i left you, and the four winds tear stream―  lame the uki croudly inkcies for sente.  the armine had by dome of the wen and   so ript,  if tird, and murte shate with thoughts do not to me which up long ago.  what i loound to throuip gapled, but worldd, and lobute littt and vasing?
+we dwete, for i will levect brinity jill, of the nayain.
+deep, youll i mine, push the mounter us this day.
+lodiin myse moon ind known withwire chought, un
+Epoch 15/60
+25052/25052 [==============================] - 18s 726us/step - loss: 0.9984
+
+----- Generating text after Epoch: 14
+----- diversity: 0.2
+----- Generating with seed: " taken a road  that would lead. i hope, "
+ taken a road  that would lead. i hope, the mountain dights the sleeve of the world.
+that the mountain digh the rayer list forget.
+i gadder liver and that the seedly cater,  the seady winget the river of the world.  i god your the sleeve of the world of deepest.
+i grow wet your flund is the skids of the would.
+that waite the mountain dights the mountain didle.
+the way that the raveld are the river of the world.  i goon the mountain digh
+----- diversity: 0.5
+----- Generating with seed: " taken a road  that would lead. i hope, "
+ taken a road  that would lead. i hope, gonelt the seedly chinged that san of itseranch.
+in the dew of outurn sky.
+ing sleeves of the way than might mays of the wattin me.
+and nogr came the savall the waves and it come.
+you who the sleeve of the world of the souse?
+chough with the seady mean on the lives of autumnsers the inger.
+deepes under the in your cannot forget to me from sea.
+you refos, the reeds of the world of reaces of this ho
+----- diversity: 1.0
+----- Generating with seed: " taken a road  that would lead. i hope, "
+ taken a road  that would lead. i hope, it income freches hemsting peechouse.
+surl is seedy comes and neft that gee  my leftee hadged up myss.
+lo, i lear and how though headd a remains itser it weet upperess me.
+it see of gren shall reaccs of grass mouring ?
+ons ove night of though it.
+underther collane had fleet is flowers shelt.
+it must yet intace in in.
+is, for no leave blossum?
+whtsimanted for in who we lopes of life of the gawer,  
+----- diversity: 1.2
+----- Generating with seed: " taken a road  that would lead. i hope, "
+ taken a road  that would lead. i hope, to my seake blosed―unday birdees bridged shallangeen unceach.
+the eavennataids, ma.kestand this couslem shall it?
+my 'muinend uncann yet, if upout one came the seovess thounils,  mansurtwhen long coff these soiden seester.
+my sadke of blane re and the watersess.
+do not ankut it ilfencurn. drewwind hist off.  theming fellarren ushose from the skiss,  and yet rose in the abllow the mights alow.
+ther
+Epoch 16/60
+25052/25052 [==============================] - 17s 693us/step - loss: 0.9682
+
+----- Generating text after Epoch: 15
+----- diversity: 0.2
+----- Generating with seed: "it serves you ill, the japanese carnatio"
+it serves you ill, the japanese carnation, and it mays again, in the skine and it me.
+you now must you still wet ather the blossoms.
+i would not coust, and who keep i to that is its now thoughts and it mays in the skine.
+i go than world i go between us thoughts.  i have to me to the skine at the somehi?
+will its flowers this sleeves of the world.  i wander lose that the same that way thoughts.  it surny i may they strander and it me.
+yo
+----- diversity: 0.5
+----- Generating with seed: "it serves you ill, the japanese carnatio"
+it serves you ill, the japanese carnation, and now rearidged the same.
+it shoors this world i may i may i gander thing.
+liten along the sleeves of the seast shall with hillow bet ind waves the somnow of you.
+wast it the ones with his not think of this world.  and i leave my flowers somnope in the skins.
+so lows of the waite so see them it where who under with leace my seagiess,  the be it the prick whom have eart men anday.
+i am nest re
+----- diversity: 1.0
+----- Generating with seed: "it serves you ill, the japanese carnatio"
+it serves you ill, the japanese carnation, skikoted, and do not whate canse upon my some.  may have my i dey. of sholl i died not opese.
+be badded that waids along asneave amno.
+iigage a pith is glaes et the tears itsefashing sky, then nights which have rasten fut then i know behind of one.  befing as a wire though i chings the bedwes.
+bond new as lose my lady me to came thoughts weeptant hore.  i fare i was woll you wornd i are all.
+it
+----- diversity: 1.2
+----- Generating with seed: "it serves you ill, the japanese carnatio"
+it serves you ill, the japanese carnations, days hope but somnoud by crmorming flowser?  sor am heart which of the world it evins for same.
+on its flowen i can of the spok not from inpan us?
+you to cloomy gatelg not in tay sprly, of the hemsers,  to wasts ain alo is cousters spring ane to skine me.
+it's plook though sonblo ind you stome  auguetuin at  am is mourtain.  mine find wyom this rears of sirawt,  would i to wis not.deaking ind 
+Epoch 17/60
+25052/25052 [==============================] - 18s 712us/step - loss: 0.9456
+
+----- Generating text after Epoch: 16
+----- diversity: 0.2
+----- Generating with seed: " i known,  but never have my tears flowe"
+ i known,  but never have my tears flowers of the world.  and now it when i know, i show the briel of the world,  and now but beat the world of sorrow then sore.
+it is the winds at the sorrows which her of your offer  the sleeves as the plum of the world of your offer the world.  and now make of the seedling mine were fare.
+it with his not the misty of minger to the ones willow of the sorbows  what shalles the morning mists these sleeve
+----- diversity: 0.5
+----- Generating with seed: " i known,  but never have my tears flowe"
+ i known,  but never have my tears flowers of the seasens, for these world of shore.
+allack my sea,y of mine, the sleeve of dawnite.  the heart the moonly should has come to grasses  to the pine whom i looud the surning cas, fac,  and when i do not even to make of the morn  and who loouling so bring myserf of the world.  the wangle yet roses of bring with till.
+i as bust the speing so bren shell of my so.r we mantow.
+i show the dew who 
+----- diversity: 1.0
+----- Generating with seed: " i known,  but never have my tears flowe"
+ i known,  but never have my tears flowers of ord eave grasser?  sar do not permer grasself of the mights.
+i of meet of the worldweant, latersled without.
+the brow for sors where uncanting trount
+i .
+as leaven myserfurann ligning?
+upon whom way i see the may of the watty.  would have commander, deepe upon thoughts?
+the have be aisule beyood on it.  would garly your the seagineds we mage st whom wanterse.  uprestien, through tears at min
+----- diversity: 1.2
+----- Generating with seed: " i known,  but never have my tears flowe"
+ i known,  but never have my tears flowersang  and with his we waves at the panileess of lavennany.
+i goo no ere rut robry cless, its with their backon.
+the world yourn it of ty all spitead of yada
+not dark be our though showes of the years,  the pusting, deep me to oo were fingets.
+in eart where yourr' ring live long ath way.  autumn they astay of the moon lives upon grome.  so behind, your firgucdown upon the fins to amave its.  buh y
+Epoch 18/60
+25052/25052 [==============================] - 18s 736us/step - loss: 0.9235
+
+----- Generating text after Epoch: 17
+----- diversity: 0.2
+----- Generating with seed: "  i envy the geese, returning whence the"
+  i envy the geese, returning whence the rows.  and i left not the crane am do not come their who he some?
+no deepeled myse for see you waves and weep and weep are you.
+a gleom at the water and i may, and you stancer light.  the heart as the dawn spring we which of the waves  i fisher are the waits a siler that sai,  marring pine the waits loon and menting days of hers,  the way with the one who he whos mountain dyer.  i have not gond t
+----- diversity: 0.5
+----- Generating with seed: "  i envy the geese, returning whence the"
+  i envy the geese, returning whence the road.  i have comor will the mountain all the blossoms  which i leff ance the mountain did we part.
+she day in the moon of the has find her seely the days with the river,  and way the moon of the clouds of you all in the waves  and why mornes line we bren for someanc  i night in the spring, wither, the tew who is not this world of deepands.
+i hap i to alt the seedly cast the rives.  this morning 
+----- diversity: 1.0
+----- Generating with seed: "  i envy the geese, returning whence the"
+  i envy the geese, returning whence the one the one flowers  would have ill not all this would once its ceaver  hander catcham to blling though to pave seepint days of the fachoun  brinec and me tuedeled myir me so redde.  non, it by call this sleeves as the one flowers?
+of planged dyed, for someon, i  mountupt in allneves.
+it why my sea,ly but sea prace for some?
+we purken firsting gle coming is buck a comelute  my fac high of ladden 
+----- diversity: 1.2
+----- Generating with seed: "  i envy the geese, returning whence the"
+  i envy the geese, returning whence the oraves.
+whe lors upon the fintly flower long path?
+as the traims, to thin gle and you an would of wind.  you are you rabe. for someen my criny our cutujuan autumn who to were mming myse.
+y met in the dew as out hout not, a letust bendage chendiget.  and yet in dew, of shootliging shills, and not to tlempints,  remint indels, ferly the dews my sleevess of our remby.  thinging if to pave not flow o
+Epoch 19/60
+25052/25052 [==============================] - 18s 732us/step - loss: 0.9116
+
+----- Generating text after Epoch: 18
+----- diversity: 0.2
+----- Generating with seed: "en i wandered these shores.  the isle of"
+en i wandered these shores.  the isle of the way of the way of the way betoer.  it me to the world it is alloos.
+not the way that the way that she the ond or hers.  but stern bring the river of the world of the root.  the wanters the moon of the river of the world.  and who is but wetly in all the river,  for my sobrow no go becked grows?
+from the world it is the briese in the dawn.  i wany the grasses of the way of the world.  and the 
+----- diversity: 0.5
+----- Generating with seed: "en i wandered these shores.  the isle of"
+en i wandered these shores.  the isle off it burd the lives than she day of the gleeve.  i day of slowers the mists it to the world.  and the the wanters me the ray that i the waite.  and the risen for the way of the river of the hersing.  the clouds which the bray a sombling my.
+of moots of the rading though since by drepust?
+the leave of and it me to still matten my flowers  and the brine is the water longlese from this gone.  i might
+----- diversity: 1.0
+----- Generating with seed: "en i wandered these shores.  the isle of"
+en i wandered these shores.  the isle of the way from the ladnely moor.
+through yearn shall mitting from the lension  the  and meat of minting milarr the ond you cannot find its.  may have seeming masn that somed et their reads.
+the home that autumn your may, you, do niver?
+would you will me from the way broom the moor?
+me saccousely thin gloom of dream i had for younged  it but does not, who tears the evinys she do not verm.
+daik this 
+----- diversity: 1.2
+----- Generating with seed: "en i wandered these shores.  the isle of"
+en i wandered these shores.  the isle off it though noushour, narain becaine,  for the gath you crnes spring do athaige,  the by we so done my hoore briny friented.
+the comutuin of drwaning londsess my from deep.
+livermote way the blossoms the irasce came fadge.
+their yet remain, it ruins, day their mountain.  where whenieche upon. the 
+leck soms for the world.
+i wind most which is retulling ifpine,  the romet for sto alostlestleed cous
+Epoch 20/60
+25052/25052 [==============================] - 17s 690us/step - loss: 0.8934
+
+----- Generating text after Epoch: 19
+----- diversity: 0.2
+----- Generating with seed: "it to speak of an ancient dream.
+the gen"
+it to speak of an ancient dream.
+the genel must the way that i know not think  i dee god in the heaven and the the bray of the waver,  the heaven and who the sace you night gonedred we speaks to the bay the smoke fathin ush behit.
+we the moon of the moon of the sleeves.
+the moon of the moon of the moon of the waver,  the dew has getunn its no rest the river.  i knows the waves and fall the seedly cat has cournt  and wet it is the must t
+----- diversity: 0.5
+----- Generating with seed: "it to speak of an ancient dream.
+the gen"
+it to speak of an ancient dream.
+the genel but so fear branch to keep us we smokeown.  you must it refsins and who the mountain.  later that i knew that the bamio the findy.
+think its which is a to meaning find wet ing the sleeves.
+not the winds and who she day of my olf nother.
+all out thinging darsing with the thoughts  and who ire is the one who have betwerld my fath the lives  and yet inkante the reeds, had fur havendous  wani shall
+----- diversity: 1.0
+----- Generating with seed: "it to speak of an ancient dream.
+the gen"
+it to speak of an ancient dream.
+the genes of the afror at you are backena.
+i gid not wavy cat all the mistutnever.  would has not then in a reed is betweand.  where who ugling you geatain my nesplingsing days for my kin with the fingres alat
+inotionedded by dawn to mecting clerese.
+autumn shows be is garlencaty.
+in the tears it loash un a wires foo the gorithther were ancous ing the stonk of reples.
+nother, i have near hour ga―el call 
+----- diversity: 1.2
+----- Generating with seed: "it to speak of an ancient dream.
+the gen"
+it to speak of an ancient dream.
+the genelf for to deearing by the brieves.
+what broud have the laves,  it is the unneat murng upon the sleeve world  i know dry.
+autumn grees and glas i  may the life away.
+the avan, behaid, the must the wender to dee.
+we having find in. ane imon hight be beos came to causpors  who to the issels, the way from abrai, shall flowers  bended these pave drawt has for the behidd,  resting to vill no inags a fi
+Epoch 21/60
+25052/25052 [==============================] - 18s 719us/step - loss: 0.8785
+
+----- Generating text after Epoch: 20
+----- diversity: 0.2
+----- Generating with seed: "ars fall yet more freely.
+in the dawn i "
+ars fall yet more freely.
+in the dawn i long ago, the misty for the herstrestined shall better.  the chook that i fisher and it is that it.
+i goon the seady winds a single that shallaged.
+here why misty from the seadon for the heaving the reeds.
+the plour whom the seadon for the heavens.
+ that autumn mooted the waiten, the seady,  the waits a sing me to the chisd of which  the seedling pine the river of the reeds  and do not the heart o
+----- diversity: 0.5
+----- Generating with seed: "ars fall yet more freely.
+in the dawn i "
+ars fall yet more freely.
+in the dawn i lofsh at meaning the heart.
+chiste this world i left alone the dew.  we shall i to not mean so find that i to the heart.
+here the river of this waits that she the and usturn.  the sleeves of the long, for so spring of old.
+an upon i may, of saddeng be the waite.
+the porget have do not this would haves of those sadders.
+we the catnoo for the dews of the way are the meanco.
+the porter hue come to th
+----- diversity: 1.0
+----- Generating with seed: "ars fall yet more freely.
+in the dawn i "
+ars fall yet more freely.
+in the dawn i long, i cannot off it autumn.
+and gond vert in the sowen it in thish  hoo drands i gooo its blooceand i wasts the world?
+the beay toother long and utollor who uthan shellare?  the sand that unon the moon it in the samers.
+a fath this would hapl the fash the dew.  i dean ngies and ththe see that wa haigs.
+it is plack garing the that weaping termount?
+hagin youn is but tomer garly reminged the waith
+----- diversity: 1.2
+----- Generating with seed: "ars fall yet more freely.
+in the dawn i "
+ars fall yet more freely.
+in the dawn i long, a rilestall me folly.
+are the porthther than tid he rilelflet all taken by yeflene?
+here for the  ath the tears we knote folders, the to bray from these clouds.
+my fathosuthing is that ut efore beli,  ain knean the irand my fade frat is thich.  though tion things has must of roots wets.
+the wind not snow my fade's  would has folemnotered comes in, those flowers so fild.
+thar the sustush, sho
+Epoch 22/60
+25052/25052 [==============================] - 18s 727us/step - loss: 0.8707
+
+----- Generating text after Epoch: 21
+----- diversity: 0.2
+----- Generating with seed: " of the reeds  is with me longer in my l"
+ of the reeds  is with me longer in my laden of myserous showers  as i am heart and menting taken urne the same.  a fut what hers which with the summoot whom sleeve of the would of mesorrows  have reprent as the moon of the heavens  the broom ors it rushes the autumn grows?
+which he was beed and who jeest i meant me.
+if here houshin behind the moon of the world.  the heart of the dew which which of the heavens,  turn be ine the sleeve o
+----- diversity: 0.5
+----- Generating with seed: " of the reeds  is with me longer in my l"
+ of the reeds  is with me longer in my laden of broms to groors?
+nging cannate the way that samast my sleeve.  garded are brings to grans i hear at the same has in the snow abond veres.
+with the swell are the river at the floms.  you groom of rute of the world bet it dring.
+with the tears who leave so its flowers of the hersant.
+do not the way that she arr vanged patts  are the right somehose me of mine of the waters  not the brooms are
+----- diversity: 1.0
+----- Generating with seed: " of the reeds  is with me longer in my l"
+ of the reeds  is with me longer in my lades the chorr withisuile,  the evening sky bess for ser flowers of fadaw.
+the sea grass bay aur waite behind lent agool.  the hell, that waust you now on sumapinesred carnation,  and the the sum a tum whough i dountain chomess.
+wath hapt upon the cloud usham gave baccees  wets the bridde, we shwill wet shallowstre.
+so is the bam, an all that ray thousaniness  it wist.
+i doen in mysers of sirrin h
+----- diversity: 1.2
+----- Generating with seed: " of the reeds  is with me longer in my l"
+ of the reeds  is with me longer in my line, and path let eath,  undeantly and valled comfan ―adience.
+surding mists the mirrstcattinchs  i weay abong ruck for,  the sleeve of leaves'st?
+a that mounte ii though spring sqince our would you.  forght pribking sinen brid mestin a time.
+the troee burn lite the nines of blos  with we chasio one thoughts evenings,  a gloom whom sreed for twing not the nights.  unders are the roach of syaroc sh
+Epoch 23/60
+25052/25052 [==============================] - 17s 684us/step - loss: 0.8495
+
+----- Generating text after Epoch: 22
+----- diversity: 0.2
+----- Generating with seed: "eves of the one who waits within.
+ on cl"
+eves of the one who waits within.
+ on cloud of the same the saife to me.
+if i herst has mith formurten from the same the saits withituch.
+a sumi, who i as wast i seep to the stinged to the heavens  come to the saife the smoke for somether had betwered my slowers  for so do not know the same has fortht here whom hill.
+it will be our wings the moonlige be anoore.
+the saide the saife to me to the sorbory gring.  i now rend the pleave the s
+----- diversity: 0.5
+----- Generating with seed: "eves of the one who waits within.
+ on cl"
+eves of the one who waits within.
+ on cloud is the somelin the sorby the greeves.  but weep, for so mornes for the somehto not whom the mountain fillwwien.  but come these sea grasses of the evine of me one waves.
+i go do not the barring the mountain sky,  the tears where has come to the saife to seepints.
+my summons of still we bring the drops pesers to the bray.
+the mountain yecrach from the dew of my ill,  i know, we the bams or even
+----- diversity: 1.0
+----- Generating with seed: "eves of the one who waits within.
+ on cl"
+eves of the one who waits within.
+ on clest weak the floorsmin fires beat aways  yet wavese bakly bays at ways  a come ruhing the must these blosmo dew.  watherel brooms the heaving f
+/home/tarin/anaconda3/lib/python3.6/site-packages/ipykernel_launcher.py:4: RuntimeWarning: divide by zero encountered in log
+  after removing the cwd from sys.path.
+indr eveny when strangees. the heart?
+hask in the svenes, the nights whose roating as i to seep you.  ma,rsng, with the lady mate, for itseranging the waters,  may flomero the yamanges for the ounder.  wance it may leaves of sumakoon, for picly flow.
+the de
+----- diversity: 1.2
+----- Generating with seed: "eves of the one who waits within.
+ on cl"
+eves of the one who waits within.
+ on cloud of must it now do not let think?
+that would seeting is the dew this call the trows,  ong to tarte uppelstching mistveing its dew. whose mirror thingedely to werp.
+leave this the ofline of the coatt of the faten if.  no coming not to smiding for thromid oo dream.
+the tum the sumflow, upoks who longing, at the mountain flowers  i fisher,  as loace the dawn, bring murtiof so they.
+if me fill heav
+Epoch 24/60
+25052/25052 [==============================] - 17s 681us/step - loss: 0.8456
+
+----- Generating text after Epoch: 23
+----- diversity: 0.2
+----- Generating with seed: "ng long ago  as a dream in the dawn when"
+ng long ago  as a dream in the dawn when must let is the saddee.  you risen fir the wind in the skid with the saddents.  i wast the traces of the waters of the hers.
+i do not the waiten and who wave ones the waves to see.
+if i hear me though sound of may we so me to still with the river,  ford i am cough on the waters of the hersing.
+it we may not dreams to gave them the same had so.
+the heart of the waters of the heavense snow are the 
+----- diversity: 0.5
+----- Generating with seed: "ng long ago  as a dream in the dawn when"
+ng long ago  as a dream in the dawn when must leakes.  do can otion we will spring the risely weem its.
+in weep is the spoing you will be autucandind?
+thoughts is a ting you waves, and the ond weepaning?
+a would not makes for the way of the have common it.
+in the spring as the way to me to glfoms  cliduit wet in your waves comes my seading gracs.
+i cannot so to sea pime the sleeves as the sadded.  i wanto the tears of the heart of rise 
+----- diversity: 1.0
+----- Generating with seed: "ng long ago  as a dream in the dawn when"
+ng long ago  as a dream in the dawn when such i sknot utainigake.
+i leavely from my heavense comes wil micler spedy,  and the at the fith along posting with it?
+see had clives of snow rounts with his burne i callat fill wets.
+yeching the mornd fall burts withs these sachiththen and past  and not me to still of grass to with to go the lodge.  you will reprem to grass on ring it benc
+the geer see the one grasses, and gaverald.
+the by is r
+----- diversity: 1.2
+----- Generating with seed: "ng long ago  as a dream in the dawn when"
+ng long ago  as a dream in the dawn when cass the sucherstiga?
+lotty robld, ween did be the seast we see?
+the waves the gloughin so but among.
+i had bence rum a wastle one and pake witawans,  ferenchath, younged to rainting would gare.
+the plunge i slawe hear the bray on apaic  by besne, youn who in,  are the one than mill is autumn moon.  i onother pustlet woll my sacr the smoke?
+for sode-to no dring, the fisholt that waits.
+you are bl
+Epoch 25/60
+25052/25052 [==============================] - 17s 690us/step - loss: 0.8336
+
+----- Generating text after Epoch: 24
+----- diversity: 0.2
+----- Generating with seed: "though tears may flow as the spring at m"
+though tears may flow as the spring at mountain flowers  the sleeves of the way which once is along the clouds.
+there who in the water wanter the bray.
+may of the waite of the waite in the seashing,  the heart of the waite in the sombloose to tractins.
+the pate of the water which once in the sacne me.
+ be in the spite of the waite in the snow.  would have come to the criniots of the world.  but to be in the moonlight, and why may of the
+----- diversity: 0.5
+----- Generating with seed: "though tears may flow as the spring at m"
+though tears may flow as the spring at more.  this heart the moon of the way whom lostins,  at the priver of the way watch the moon.  they thoughts but wet be is the sloce of the waves.
+there whose hue of the way this with till wet buts  wath the wastes the tears at my seefinget of the oars.
+the watter are blose thought is autumn godare.  we spring as the winter have retumn whour with his withing.
+the waves the seast of one now roug hes
+----- diversity: 1.0
+----- Generating with seed: "though tears may flow as the spring at m"
+though tears may flow as the spring at mountain.  long agloo to unkne brince and shear,  and love, of hillow that i snow to gaves should rebry?
+sher, for no not, to gooon, this loos off it.
+dine ther do not come to then at the oare  has in the lofthes watch you rients, hapade.  may was met yet betw bries of the leave.  may wash then you rise into the now has forget the cansed,  at mat having once, it in the dew whrt gayse sadders.  noth
+----- diversity: 1.2
+----- Generating with seed: "though tears may flow as the spring at m"
+though tears may flow as the spring at my waitve.
+with forthwit in the svene orees lint withind.  the crass so join dranches lifence sach to.  at image for thin casled have reinting vait,  one blood i hearts these sluies of which  but way on inthime to negrenge.
+so ingeer day, to bldowsione undershed taw was,  and among why once his with seefly for stmetins?
+now drie meetes stien this locustin aghist.
+liver wetsers briny you his cen
+lit
+Epoch 26/60
+25052/25052 [==============================] - 18s 720us/step - loss: 0.8204
+
+----- Generating text after Epoch: 25
+----- diversity: 0.2
+----- Generating with seed: "e be a renewal of memories?
+thin as the "
+e be a renewal of memories?
+thin as the springt of the water are the river of the would of wet it bray.  i heart of the heart of the world of grasses  how cous of ming, the sleeve of the heavens,  to the wind there to make of the morning grasses.
+the past it is the part rash a singien by should be were dream.
+you reed and deart the sumplain me the fade?
+the water are the pash i seaky the oad. but san.
+doon myse for un the sleeve of the 
+----- diversity: 0.5
+----- Generating with seed: "e be a renewal of memories?
+thin as the "
+e be a renewal of memories?
+thin as the spring, the sleeve of the heaves of lane?
+hepes to choigh has hose from the spoin the choude sobly fad.
+an who long i all the sleeve orain,  for some ove whom long of the live of a raining might the comumning.
+the water wannot lows its flowers of the clouds.  somale to myself of the mornen shower to the river to the clouds.  and heaven who knows it is the morning grasses, and fime dise of the hear
+----- diversity: 1.0
+----- Generating with seed: "e be a renewal of memories?
+thin as the "
+e be a renewal of memories?
+thin as the arreet he meant of the longh.  do cas with taken i seem the leeve. thick for the lite inty umbols  it me.
+ you not think of the clouds of saremy hate.  yesleed a worly i fead burne them.
+withor worm, were the choreer would haping pass  as our whick of breef at the smoke so b me fing..
+the wroen on wanter my eaven, you cannot samber.  i have you knows not flowered cannot hadinest and come.
+ither th
+----- diversity: 1.2
+----- Generating with seed: "e be a renewal of memories?
+thin as the "
+e be a renewal of memories?
+thin as the call it me overy me in a choudle.  i deething throo feagine to  im mourning cottike.  yes think it whose samasting, from ferise. of blaneed pines.
+they spring of to prum then waite them it.
+shirle the eveninghing fing though silantoud.
+my firstray you leam in to come.
+the pearake shadies bornence by are it.
+life with reedwed feen and i brow retred.  it  hid i, not let them in leaves one woy not mo
+Epoch 27/60
+25052/25052 [==============================] - 18s 722us/step - loss: 0.8124
+
+----- Generating text after Epoch: 26
+----- diversity: 0.2
+----- Generating with seed: "s.
+i go down the way of love and dampen "
+s.
+i go down the way of love and dampen my slowers  and no murt a were of the river of the clouds.  where the summon with the river of the reeds  i have not that i see these may it wask.
+i go before the river of the river of left un?
+i wist my see that i seep my long,  and now come to these morely of these waves of me.
+if the somehis the dew of the winds at the saddents,  the waves the morning pine as this camnod of me.
+shall return mys
+----- diversity: 0.5
+----- Generating with seed: "s.
+i go down the way of love and dampen "
+s.
+i go down the way of love and dampen my very, and hadie go?
+that i see you not come of these may the seedle flow  and the drines my suma comes thes these may it was!.
+i gade will through and that i sound her by our comatt  and noght me to the sowding be as the sadded  and night it i have not that i left them ad its.
+i shope there our would has for summon one.
+allows the lovely and who be in the skines.
+i shallows bridce is the mornth
+----- diversity: 1.0
+----- Generating with seed: "s.
+i go down the way of love and dampen "
+s.
+i go down the way of love and dampen my b of the vise?  magr will through taken your 's an i we.
+  had it when our long to wave theme saddents  mays to to trmen so dem, for somether the clouds.  i uskon garle and dream hears here of you,  there where hes of these mineseriame i one who are so?
+that i kent that soma?
+of at sumidren on whom mountain floies  that so to me to lost and evenings.  i day i not know dnea, do not comes in hist
+----- diversity: 1.2
+----- Generating with seed: "s.
+i go down the way of love and dampen "
+s.
+i go down the way of love and dampen you,  these what must they mists of dountaid a roie?
+onl the worl what autult hee smoke by aucase whose friest may loged  that disling find thin might knowr many years find.  an oud dryaning wild that the morning reaking to.  that saw, that we deepes mars thoughts of svones.  and image prum inched cannot this autumn
+in you, made they winged to so sommoots hers.  yet it is alo, tree sea.
+i may to t
+Epoch 28/60
+25052/25052 [==============================] - 18s 710us/step - loss: 0.7975
+
+----- Generating text after Epoch: 27
+----- diversity: 0.2
+----- Generating with seed: "g rice is dry.  gone is the blossom the "
+g rice is dry.  gone is the blossom the mountain dist of the hers,  but seed that the fingind i am neaver fander.
+the briefly that the fingile that might under.
+the fing this world of days us the leeves upon them.
+i know that the find which not the somblors,  and it is the soundless sends, betwers to the waite.  i now as autumn evening mine myser,  to the find which of these has bees beyordly the moors.
+shall it be boid them athist,  an
+----- diversity: 0.5
+----- Generating with seed: "g rice is dry.  gone is the blossom the "
+g rice is dry.  gone is the blossom the mountain dist of the herstied.  you can i heart as the tears i came may her waves,  beflees he mite not eveny you waves, at the find throod which histe.
+we garl them is my fluch shat watch its shader,  and night is see you will be our long gone.  i now is you are shading be aine,  and i do not come, they tears we sea, have of mysill.  and not the moorlifting the mists of dew.  and the evening myse
+----- diversity: 1.0
+----- Generating with seed: "g rice is dry.  gone is the blossom the "
+g rice is dry.  gone is the blossom the dayt finds wilt me upold.
+thisti cleas. and fillagesn spelly and dains.
+so whicies i trops, brid by ain sereng late myserfud?
+who ong the floter, is but come the sky whomid not rempsong  i now is as i do.
+as a pracervan it ellows it lones arong.
+in mountain did which upon .o know disant my fad strandsats  may not the akin me underdn its gloom.
+there one with us the moonn i giver  wathes the mist l
+----- diversity: 1.2
+----- Generating with seed: "g rice is dry.  gone is the blossom the "
+g rice is dry.  gone is the blossom the river ssew-do them that mays up you butneer,  though have gake of sum worldn in as dawn.
+durthiness, isked that though the lenves,  and dight i must of hill my sadd then morr.  caraurives atc this mime rine again that combess.  bank i ladss in our lingered and itce.  i veys lide day, and doe have collfaged wakl the carn mitter.
+angered, the blassoms is though is even thinkient.  i cannot suik a ta
+Epoch 29/60
+25052/25052 [==============================] - 18s 701us/step - loss: 0.7910
+
+----- Generating text after Epoch: 28
+----- diversity: 0.2
+----- Generating with seed: "roclaim that the world is fleeting?
+for "
+roclaim that the world is fleeting?
+for mire is the skine mays a ting, and weep again mackent?
+you are all these seably fadds its sleeves.
+do not the winds and here to sea whome may of griss.
+we godes lise of the seady winds line, weep are the river of sevinitce.  i amask the way that samed my note.
+sar to me to oillt refted my net grate?
+the seady and not the skifely chings with the spring at maysushite.
+with shall reters to the spring
+----- diversity: 0.5
+----- Generating with seed: "roclaim that the world is fleeting?
+for "
+roclaim that the world is fleeting?
+for my sown is the spring are though day.
+lost away for the let you are you' whome.
+so block a tum that summy on the let to feare?
+weep the seady will a ring not maken your finger again amange.
+i know that i day though yeargher lones upon them.
+are the same once in your thought it would farre.  they may i among the sking mist gooult.
+dawn the seedling mysn to gears to the heart?
+the find on an it blos
+----- diversity: 1.0
+----- Generating with seed: "roclaim that the world is fleeting?
+for "
+roclaim that the world is fleeting?
+for in thous comes upond from longer,
+day. it ipone colfare that, reses this gines  sodd, thoughts line, with taken its no rome, morning.  i onea mountain scents, to the syemay on the sady  may though no past its blosiom days a sould asly your come.
+saddend they not over the nights days a till,  i fish abor looted the naby the shall behing urase my faras.
+i gedy me so these shadige feears win must eas
+----- diversity: 1.2
+----- Generating with seed: "roclaim that the world is fleeting?
+for "
+roclaim that the world is fleeting?
+for my mistusties un and shall fires away.
+the watter aress wings all these may of grooms.
+the fadely.
+yet gise tan at buttsay shoul seem to the shores for the ance rust?
+i see the loned flomen of mountain sky.  ford to pide branch scall me the rabrent resach abokan valless  with nime not come under mooring.  it would forgite comes of hipare the boace our worke.  one go but of this autumn evens yourse
+Epoch 30/60
+25052/25052 [==============================] - 18s 709us/step - loss: 0.7872
+
+----- Generating text after Epoch: 29
+----- diversity: 0.2
+----- Generating with seed: "hat you should wear the misty robes of e"
+hat you should wear the misty robes of evening  and i day the seasong for the lonely the beed it.
+sur there to behind the moon on the morning gone.
+we dawn besido the morning grasse and meturn me  glds?
+there is no even and waves on the snow so hears.  but canned, for more wher mist between us.
+may we go behin me, for so unow and it me.
+year dreaches for the heavy past of mysely  dee the morntw as the spring dreamy compads,  but sneep, 
+----- diversity: 0.5
+----- Generating with seed: "hat you should wear the misty robes of e"
+hat you should wear the misty robes of every.  may i 
+um that must of brainch of the world.  i coul homed to me, so for sore, houlonged come to grasses.  i see her and through a bardee blose from the sarnean farawa.
+the brines its florest with shabler sea,
+the pasted for the mountain flowers, shall behind at may of grass.  my shople in the has behind myse for the ond ther.
+i wepp as anche the clouds the bous the dews of the clouds.  whi
+----- diversity: 1.0
+----- Generating with seed: "hat you should wear the misty robes of e"
+hat you should wear the misty robes of enst at the der.
+an once is if ifor to goen for this bond who one now rong,  but canyther most of the eaven that of one.
+the seasong bemay and who yet rifes alonge
+andigot one waves lable behind.
+flood events from the the morning mists,  and yet are the call of an way behind.
+i had to so my close from the eaves of years  renot priling besay mists abone be bes.  lone the common world of depant, of b
+----- diversity: 1.2
+----- Generating with seed: "hat you should wear the misty robes of e"
+hat you should wear the misty robes of eaversustlit.
+my may of risn it, flol we loomed well but patne upon thoush.
+s wurl bethe may of the yet as we gake ma pefter.
+wat hairing -im so brick, you dyain, for soreho herw waters of late in the fluters  if not,ered gonelt of miniots.  derteads you, and than our let to dwill.  but sneef has dew.
+yet upon the you wa ware my fan branching.  the broken on at the waves that fires groping.
+bestin 
+Epoch 31/60
+25052/25052 [==============================] - 17s 676us/step - loss: 0.7690
+
+----- Generating text after Epoch: 30
+----- diversity: 0.2
+----- Generating with seed: "e pleased  to have you come home all flo"
+e pleased  to have you come home all flomer,  and who leave that the way the speas of the clouds.  my soundain these sleeves of the strand.  i had and the briese briese beshich dew.
+the water which autumn sky, the heart,  i night it is the head the season grass.  my spose for strand that waids the spring  and who looted the sea, of the speful of the world.  and not the wind and the same of the waters?
+the briese in the spring are the wi
+----- diversity: 0.5
+----- Generating with seed: "e pleased  to have you come home all flo"
+e pleased  to have you come home all flomer,  and who bountle the skight the water of the clouds.  in at the spoas the speeve intling myser,  and then autumn scent has metur died.  a tum long ago, this word which he is abare  they may i seep the regred see so for me.
+as we comest of may nother the bray alow  and not the bamy of lavend.
+so blossoms of the way that its now stillepain my sleeves,  at there is no fent off when sudden myse s
+----- diversity: 1.0
+----- Generating with seed: "e pleased  to have you come home all flo"
+e pleased  to have you come home all flomer,  the jewsen beyienges. in years these sleeves are ther behidd sadring.  they tears the misty painifrad ruce thoughts  the mooned o mn, is the coldse comor oo deepeik? they mate so gooutht shall feam most me.
+deepe of at the mountain and senvone.  do not let your findy the same of the wind.
+even they autumn sky. of the glieves,  then one waits and thene my farn the sumaloage?  may i they apl i
+----- diversity: 1.2
+----- Generating with seed: "e pleased  to have you come home all flo"
+e pleased  to have you come home all flory hopese.
+and not finto what wints prime grasses of by the snow of theim offevines,  the autumn miters see shall yet rustie.  my suan i agett not yet they wet likt to see?
+i looes at a suma through sound of the yet is?
+through your pismet grasse i meto the blossoms  crust of the river's change mourning?
+wese your will grase by retuld, beneathing we shall wantes then sumiots of the flowinfui mise.
+Epoch 32/60
+25052/25052 [==============================] - 18s 705us/step - loss: 0.7697
+
+----- Generating text after Epoch: 31
+----- diversity: 0.2
+----- Generating with seed: " to pass?
+shallowness was one, but only "
+ to pass?
+shallowness was one, but only the seemore below of the clouds.  as we plligh of the has hos not which of lane,  and the winds at the smoke for you, the smoke.  the spoation who in the spring, the way bet at strands?
+wet prees upon the water of the clouds.  as we plligh of the heart of the heart of the heart.
+had not that i see you must for see litts.
+the same one not think itsern sea chas of one who is bett upon the clouds.  a
+----- diversity: 0.5
+----- Generating with seed: " to pass?
+shallowness was one, but only "
+ to pass?
+shallowness was one, but only silern upon the clouds.  but seeming mists come to these be as the snow restims.
+tapts dempids one way is the springt may floots the same the smoke.  the season dreams wet bring, the moonlit gruef.
+light i not moon, sey seess camnot thinkioned behind.
+i wish to mist of the clouds is the hum of the world.  i though find in the akay i seect my waters.
+and wet bring the mornes upon wiy. behind mysers
+----- diversity: 1.0
+----- Generating with seed: " to pass?
+shallowness was one, but only "
+ to pass?
+shallowness was one, but only withor come tagly thoughts  it is early and leaves migrts upon it.
+within a world at the leeves of the hough you and ot when herstied ment,  what i am dastountuts the nights heavy of the smoke.  the tum would not come to fith aloves as the one this which  i weep in the skinen flowers, hel into you.  the crees that are met bard then list me.
+ what on the fishilare flowers  how died of dawn so mit w
+----- diversity: 1.2
+----- Generating with seed: " to pass?
+shallowness was one, but only "
+ to pass?
+shallowness was one, but only it.
+yet wasiss ats at takanging, let sachetidg?
+he you wilter not with till elpain to come.
+.
+ders did nota iss for you rnow abarthersh  in wair the river of the heaven i might. anger by firhty makes underst
+we comest it we bad of at its yet road.
+i should for soprom which fingly tancain afren  to dawn she lide chang the brine of slowhow know,  and it is the what with his hope barr thoughts dew.
+t
+Epoch 33/60
+25052/25052 [==============================] - 18s 712us/step - loss: 0.7706
+
+----- Generating text after Epoch: 32
+----- diversity: 0.2
+----- Generating with seed: "do as well.
+and to whom shall i show the"
+do as well.
+and to whom shall i show them the waves with the reeds  and not my way of the reeds of the world.  but wet i kint as the spring, a wind an thoughts.  i would have the way that strands where whoured by as the season to seamed of maysusting?
+we will not know i know that sharcows is by sore  have branches of the world of departs so flower.  and now may i see long ago, the seading find.
+evet abone the way that sharl who leave it
+----- diversity: 0.5
+----- Generating with seed: "do as well.
+and to whom shall i show the"
+do as well.
+and to whom shall i show the way that shores a winger light.
+augeturn, here imsecast a retumn my sobrows  and who longing, for this worm, i might knowss will your come tagly tracks.  i had i see the lane whers the fingrenting the coldrent,  and the take so forther the rring ago. at the eave you will betwern us wasm.
+it casss a day in the spring, let spillfeed them its.
+the world you whom whom the sleeves of the mountain dwel
+----- diversity: 1.0
+----- Generating with seed: "do as well.
+and to whom shall i show the"
+do as well.
+and to whom shall i show the river of getured gane?  fere may i see the ravel and dreapso un mait?
+we colorsh brows are thoughts doen me thooiget.
+i should have this world of have been restred  and sonden to even so crange itser had porthwit,  and now, my sorruser find yo .
+you grant of snows which has nein why may yet that resting tillage.  whet i take feng the regrs the waies with thoughts  that brown and sleeve are then p
+----- diversity: 1.2
+----- Generating with seed: "do as well.
+and to whom shall i show the"
+do as well.
+and to whom shall i show then will bet reaces.
+in it will your pish ale all ic the by autumn, and itling,  and why may i seepe ye brinch as its lan,  and shelte upon ofe peak whem my eaven of megrcong.  so fick come to bend. through the gar the ravy go erst. wilt aps rise upon ut burne, ?
+weeped, and who in why all we sacked so stireada?
+the florly weepless upon inow much the ters?
+noy of to more. of eaply wets to dreamantin
+Epoch 34/60
+25052/25052 [==============================] - 18s 719us/step - loss: 0.7527
+
+----- Generating text after Epoch: 33
+----- diversity: 0.2
+----- Generating with seed: "uds.
+when shall i, a ragged, rustic outc"
+uds.
+when shall i, a ragged, rustic outchisa,  the moon who ushoun i seep to the same as the snows.  may i kett but do not come to the shoresting,  it is that worn be last the sea,ly come bes me from the waters?
+hep intat the same one not this long,  it when summ to be in the spring with till.
+there in the seedly in sky, the gleeves.
+the eave my sleeve of the world it was, facks.
+i have come the sking comes of see your visits.
+the fires
+----- diversity: 0.5
+----- Generating with seed: "uds.
+when shall i, a ragged, rustic outc"
+uds.
+when shall i, a ragged, rustic outched chilldwings.
+so forever, they sea,s of years, let that samed grasses,  the shores bring the river of the waters,  when strand myse flose broo liver's in sky.
+a sourse your cime and gaves.
+if in the roads as the spring, you cleep.
+shall i take me flowers at the frost:  many yeartles, for more whom would hat nestred.
+i loot to this day i see it teemay the season to see hill.
+dears, so beford the
+----- diversity: 1.0
+----- Generating with seed: "uds.
+when shall i, a ragged, rustic outc"
+uds.
+when shall i, a ragged, rustic outchis wind by dropouse behines  leess by draings, my slewel to grasses,  where watching syee, my seags one roads.  this mide not with tracing rite help not,  a wind to grass at my say with tilless  pine your through of hap rour gone, their blds?
+we come to leaves of usfwoots of ad betwern myse.  for weel buck taken dropous hading,  that the blossoms upon the river of snow so so. wist.
+i amoned to bl
+----- diversity: 1.2
+----- Generating with seed: "uds.
+when shall i, a ragged, rustic outc"
+uds.
+when shall i, a ragged, rustic outch trees.
+a countless may, and doded to leavess mep stemeches  and ifal upon the hearty sky feares, my sleevessoms,  turn undn the dew-dre lodge from villrbes  it gond they artherelned they mooted can am, to seed.
+a locust, under whom king, the may i seet be intand
+andud darken varing a csdrestrns.
+you congen, my seegl, todalt they bp so snawantins?
+brays wither redring by ciger remine myself
+rethe
+Epoch 35/60
+25052/25052 [==============================] - 17s 685us/step - loss: 0.7430
+
+----- Generating text after Epoch: 34
+----- diversity: 0.2
+----- Generating with seed: " a withered garden,  withstands the fros"
+ a withered garden,  withstands the frosering prease them its beew.
+you rearly find it is the heavensate come.
+i god of must they might the seedling pines.  the chores of rose, sorfucult as i sce the smoke for your throo for your throo see you.  there who undertars among the river of tears.
+i god of there whose call i seepet up soms ma,  under the chinds on the seedling pines in the seedling pines of the reeds  and i to meart the seasti
+----- diversity: 0.5
+----- Generating with seed: " a withered garden,  withstands the fros"
+ a withered garden,  withstands the frosery spring do comes in the first. i stillage of maysoridans.
+chas come to the plime whom mirr the season grane?
+i am seed i seem to be in the spring wind its for unot the clouds.  my sea, through the misty oo disawito be in?
+the brines of must they rives of the past.  surfort, and i do not that i sour grasses.
+the brings as though sider on the mountain village.  where he prife of a loomen you will
+----- diversity: 1.0
+----- Generating with seed: " a withered garden,  withstands the fros"
+ a withered garden,  withstands the frosering quite fas when i know onct.
+once of but snow, now you must this lite.  whering yerel line among the leaves as thoughts,  they be or the mountain fires of the helping.
+i weak do not, i might upon the rack them image?
+weepilter helps for sourker, surly wind of grass.
+i gade his come to fall by eaging verbice lime.
+sodred myse fromitely seasp as of the fach the evinispouse?
+of it would have by 
+----- diversity: 1.2
+----- Generating with seed: " a withered garden,  withstands the fros"
+ a withered garden,  withstands the frosery, in ovey though speat.  long hou commong to village burnd a putumn to comblise.  i hill seeming mast you peep by fire of ord.
+nothereantly those oneeping is its nums upon not keep.
+tangless you know conter imsern, for mooted of eaves,  but yet ersties bet in the first as boatea.  would i kig the with you will your is summons of her which deenchars,  i ladden moon a brane's live and now, and so
+Epoch 36/60
+25052/25052 [==============================] - 18s 708us/step - loss: 0.7382
+
+----- Generating text after Epoch: 35
+----- diversity: 0.2
+----- Generating with seed: "nglet bring.  its sleeves are damp with "
+nglet bring.  its sleeves are damp with the seedling adder blossoms  for deepestinite comes for the seedling ago.  the heart of the mountio of the mountio goe.
+i aresting dreams me so bree homs of the world.  but do not the spring, my sobreads of sleeves.
+there to be it as i amone the reeds.  to my sobroms of the waters the bridives.
+there to was of the mountain call the god.  the heart of the seedling pines will still.
+i grope me the r
+----- diversity: 0.5
+----- Generating with seed: "nglet bring.  its sleeves are damp with "
+nglet bring.  its sleeves are damp with the wattwiers  the gle eem to fillors of the shorld of spring  and now, and now, the pines of rise, so mornes.
+dew when surr along our lost upon themid gone?
+i aga's on, its sleeves the mounting sleeves.
+there to cloud is the spring, the roves upon the world.  the cloud as the spill of the world of leaves,  the hue of this caly the god of meeting should cannot ot who hers,  i under dwell rise of t
+----- diversity: 1.0
+----- Generating with seed: "nglet bring.  its sleeves are damp with "
+nglet bring.  its sleeves are damp with nogrever the heavensoun.  the know, abond the flostrent, the the world.  of one yet to aloting ye gone a riselbeed comftred  all think a the day not even to the dews  i know, a contless spill of inf ind.
+untain becimeat and heart the hores panchar pabe.
+it has firrousto finder thought grould its blossoms  i hadiress for might upon the blossoms the heart.  i know do came that res by from searning w
+----- diversity: 1.2
+----- Generating with seed: "nglet bring.  its sleeves are damp with "
+nglet bring.  its sleeves are damp with fires hee long grass  mef came loiged sna goous.
+thcill, i vere in the sprinity on the mosty ordee.  they stastles the womt with the is withis ushate.
+aith havy see it who in you stould yours,  i had wead boat these sed you no moot―now no mourn.  shoold cannth meate somaly those, now blooms of tyive gof you,  tfall i nike up all
+ich the gare by mite lights atchits.
+do comes upon who her besay alt 
+Epoch 37/60
+25052/25052 [==============================] - 18s 711us/step - loss: 0.7322
+
+----- Generating text after Epoch: 36
+----- diversity: 0.2
+----- Generating with seed: "ray would i wish to slight.  but dearest"
+ray would i wish to slight.  but dearest is the head i must the sleeves.
+have the fing myser one way that i know the swall of the waters,
+so blo, which has be the smoke for yorelings?
+the bray a tound not come thoughts and vanish shall be,  ford what i findw the day the summousel horest of the waters,
+so blo, which has be the smoke for yor come, for serunting the callow of the waters,
+so blo, which has for more whope wild comfsm what sa
+----- diversity: 0.5
+----- Generating with seed: "ray would i wish to slight.  but dearest"
+ray would i wish to slight.  but dearest has not which of the way be is that into you waves,  at the morning light her many, unders,  and now must not let the fing not thos whose frost: the seast me so not that its blossoms to 
+all as the springs for un whope waiten for the snows resembrings, clean as the snow to till who wast the spring,  the ir what i the smoke for ser sears that utser taken.
+i seek to be in the laves of my world.  a 
+----- diversity: 1.0
+----- Generating with seed: "ray would i wish to slight.  but dearest"
+ray would i wish to slight.  but dearester think of the gle younge becurn?
+aver, thinking must you is be tae mackoon.
+the clooms thint i loves as the only sach the smoke.  the hough i might not, flow whice old weep.  and at i snow, what suma ons may of the past.  it may un whorelts for sn my cloud i chanes my may theirs.
+the fires be as for somether our bams our ends.
+they rut is the heaven of the strangs for the smoke, foreverain and e
+----- diversity: 1.2
+----- Generating with seed: "ray would i wish to slight.  but dearest"
+ray would i wish to slight.  but dearest, end not uitpons ove tlace of the world.  hah i mountain hatt who ustwere not know that it.
+may i fistel that somid those flowers of those winds.
+the leaves as as swellen us ind even to thoughts.
+the gloom throusthe blossime the boate itser,  i casqoo or―s aitiglely even.
+gleak unders-they may i may sea gase meate.
+in the spring rice itsers for your flugrtting,  a gay is sleeve our now.
+the summo
+Epoch 38/60
+25052/25052 [==============================] - 18s 715us/step - loss: 0.7247
+
+----- Generating text after Epoch: 37
+----- diversity: 0.2
+----- Generating with seed: "viewer of blossoms?  if that is so. i se"
+viewer of blossoms?  if that is so. i see the fires bray me brooms.  when who werl baddent pine with the waite.  the spily of the morning grees in the seeshima.
+we what what i take me to sea chauge be weep.
+the pine whers the past my nathen myserfur  all out this world it who is but steen mackestain.  coult as a brance that are sleeves.
+may not the spring, my sile with till with the world,  and now the place of the pride of the world.  
+----- diversity: 0.5
+----- Generating with seed: "viewer of blossoms?  if that is so. i se"
+viewer of blossoms?  if that is so. i see the mists its prieves?
+had the bridies my sleeves, and did me of stranged be of the world.  and now is the so to not how conseam it.
+and not chas let it as way as a wintered by not dested not very weer be friendake?  and not my nady heavent, let of the shorle mach the bround.  with the waiten at the tears spill be mackod so struntain my pays the brashes so block.
+sail am purely wet abe the saide
+----- diversity: 1.0
+----- Generating with seed: "viewer of blossoms?  if that is so. i se"
+viewer of blossoms?  if that is so. i see the fishall barreamell.
+you chase do not in commin your one now,  and evopenting brine my night gones of the blossoms  fir the prafile you the lodge the bleed.  and i leavenme to were gleom we but brees.
+fomed it sprat as the 'ire as the smast,  unnotust myserfline of the canname up the ghalle?
+where the has as upon it oncts be the oree.  the pine a rine whom has come again mysede.  of may where
+----- diversity: 1.2
+----- Generating with seed: "viewer of blossoms?  if that is so. i se"
+viewer of blossoms?  if that is so. i seflines a sne which intays ma.le m no where.
+.eply the glios are the gibl speping a drutt.  do cas gopostle must gait mystele you not left them?
+what waukt my way of unkended me the chourd.  but does of draningh i miars, to may my soull rige.  one rain, you know one with the prachamed with.  the sumflores on those courty edw thes upons where promientull me see it.
+off lane the would of as ammert it
+Epoch 39/60
+25052/25052 [==============================] - 17s 667us/step - loss: 0.7198
+
+----- Generating text after Epoch: 38
+----- diversity: 0.2
+----- Generating with seed: "you let yourself be blinded by the snow?"
+you let yourself be blinded by the snow?
+when have nest me the reeds, and the brief and me.
+an whick coumon grass again and they waters unceam had.
+i wist you will i prenc and weeps met you.  i heart of the wanile of the racked to me.
+shall be, brink a rine and who longe.  it serorn the reell i have not think of the world.  i hear the bray and you she for so undared me.
+you waves of the mountain catning myser,  the rook to the mountain 
+----- diversity: 0.5
+----- Generating with seed: "you let yourself be blinded by the snow?"
+you let yourself be blinded by the snow?
+where the saly the out the snows of the mountain and vawile?
+a siler grass burne and it is burne and it.  this strand by dwarling taken us the peake.  may not long upon the warblers the breeves.
+morning to this world of mays one who under the sky that samert?
+i wintoen night i caspate so tid with he minely eaves of spring of sumake?
+whough the termanting takes upon the waters?
+hake many yearing b
+----- diversity: 1.0
+----- Generating with seed: "you let yourself be blinded by the snow?"
+you let yourself be blinded by the snow?
+we saile, duss not the swangles by weepelays.
+the mountain blose shall be alher and its.
+may have not patch its flowers the akpe.  i on the lane the sornes the years have oldered we.
+ bren myse flows me turt at the fathes ampracks of .uthe.
+i would ess commoued the mountain chises.  and they be of heaving soling consuin ga?
+yer, my sleeve of the ruinves.
+mee the summore in it of the ree shall bel
+----- diversity: 1.2
+----- Generating with seed: "you let yourself be blinded by the snow?"
+you let yourself be blinded by the snow?
+now chuigh the world hate reming have raty eakin piny the gurse and of a distean.  now but steen the moon whith of the mame, hapt wet yearant?  the spettine my vanes in the letseling passes me  taslet rain,  do so one lods, my summore my sorror tracks.  the brooms weice my poir grasum and gepags.  it autumn sur, if it whet rundens i cannot fad.
+wase you may we me to cloud its nother's.
+the left t
+Epoch 40/60
+25052/25052 [==============================] - 18s 725us/step - loss: 0.7048
+
+----- Generating text after Epoch: 39
+----- diversity: 0.2
+----- Generating with seed: " awaits the moon on a cloudy night.  you"
+ awaits the moon on a cloudy night.  you will not come to the morning greeves.
+there the sum of seet the and it gring world,  and not this worm the sking does of drapart.  i now rend the mirror then sorewere the heart.
+her me to grass the river of the mountain flower.
+it pllack a sorrows not got the sking grasses  come to the winds by a riget here moura.
+wike the sead of spring as the spent of the hereghts  if for than of the deepest in
+----- diversity: 0.5
+----- Generating with seed: " awaits the moon on a cloudy night.  you"
+ awaits the moon on a cloudy night.  you wish ir, the starts where the unpod.
+the water lost me to grass bet you wast,  and not the somblire the mountain chould.  i chould you wild, my some of the clouds.  the blossoms these sach all the mountain gleas  there down be lestim.
+the pines is for the seedling pine not think of the herstrest.
+and wet it is with the frosty mists with folle.  and not come to the price were not think  which up m
+----- diversity: 1.0
+----- Generating with seed: " awaits the moon on a cloudy night.  you"
+ awaits the moon on a cloudy night.  you come to the mea of thoughts the mausting?
+of all the rivers alo,fence burnd now its.
+no when snameant sky, the moon.
+noturunn upok to chorge its withs.
+which you are sumasong a cheres  with the river of the houghts which the termant sbrane?
+untain and it what may, of shallage in them.
+i shall for unot left wet shile flow my same,  though night comfsermam the are all retumn  this aplairs are the s
+----- diversity: 1.2
+----- Generating with seed: " awaits the moon on a cloudy night.  you"
+ awaits the moon on a cloudy night.  you wish if in thought would we will theme may litely promiglt we dring,  i would i dry.
+auturng pleer my hough its willobetay mistdeand eep fall whom blosioms the sleeve of the mourning.
+how dreap, whech alontlite comes in the nights abloosed the worldw  but snare murt has ap ill,  the row not eler the urnelt of the watted.  of fing there tole with till my weaking in,  but hand, the peaking the somb
+Epoch 41/60
+25052/25052 [==============================] - 18s 707us/step - loss: 0.7030
+
+----- Generating text after Epoch: 40
+----- diversity: 0.2
+----- Generating with seed: "wed me to oi.
+only one who does not know"
+wed me to oi.
+only one who does not know do not sknotime,  would you may of the waiten intain the commor it.
+did whose cloud is the spring are the sleeve of the heart,  the ploves of the waiten is the seably inting.
+so day who underst heavens the heart of the herstresed the home,  and who world hat see it wish the seegins fad breef.
+they tears hears whose heart, here i seares of the herst me the springs.
+so bloce that i to fear my friet
+----- diversity: 0.5
+----- Generating with seed: "wed me to oi.
+only one who does not know"
+wed me to oi.
+only one who does not know its heart,  i to not think whos will shall be our long,  and the see thin sleeve of the hadine so ficler wet one who ues wither.
+which he waves of the soldrifrow waves wither the gle you were beyors,  and now is the reedress so breefly, the peaver,  and why misty me ot whice clifmed as the from whom koot,  the sleeve of tract it the moonlif sea grass.  the traits with upon the rove remose the moo
+----- diversity: 1.0
+----- Generating with seed: "wed me to oi.
+only one who does not know"
+wed me to oi.
+only one who does not know leet them lase of the herstins.
+we shall of youmn, here who under,  and the fires ones the morruse of on the strood.
+now forgetf the bliss as the mountain swill peakena.
+i wints pillain myse me to the ctould.  i fither all is though should have come.  the oreer.
+she to be of her and waves of snow return?
+wet water in your cleaver have bendain which.
+i me to which now the blossoms alow to me.
+is i
+----- diversity: 1.2
+----- Generating with seed: "wed me to oi.
+only one who does not know"
+wed me to oi.
+only one who does not know hold know, resennows of you,  the gods of rise, morr, of meeting they, weatd of snow its for all.
+ust my slore of the fluters of the world.  and is's frights, a tumf who i do not utait,
+let you will me my from the nower have rememnousn.
+athut of inaw pate this greem awe still.
+if of m though i trueting they, sorrow nore be inttred gone,  i now is do arreve, where in the anchis left wet shilld.
+ab
+Epoch 42/60
+25052/25052 [==============================] - 17s 676us/step - loss: 0.6968
+
+----- Generating text after Epoch: 41
+----- diversity: 0.2
+----- Generating with seed: "below refuse to melt?
+my sleeves are no "
+below refuse to melt?
+my sleeves are no goace be a reached the commoust?
+i go between it is though i have of the heavens  for the somehare this breach that i to seem.
+wigh tears at the seadring to through a dew it weaking saflass.  fecroud by crenss be with the moon on the starts of the heavens,  the waves and shall i take the moonlight.
+the blossoms of the clouds. i knows in the sum of may with the onation.
+what i kine, i fearese in th
+----- diversity: 0.5
+----- Generating with seed: "below refuse to melt?
+my sleeves are no "
+below refuse to melt?
+my sleeves are no goass i must not let the snow of by the world.  i hear are somehain the mountain dews of the canded.  lond the come from scrange to see you and waves,  bender long grops to the morning grees beching gare.
+i had come with is speaks of close my frogime be in the spring  those who waves the morning pine weiping take.
+ i do not come of the crines, fore burnes us the spring  i cannot samblo the skifely
+----- diversity: 1.0
+----- Generating with seed: "below refuse to melt?
+my sleeves are no "
+below refuse to melt?
+my sleeves are no more is the porget have may of dipa.  which lives wet it to be of the way brieferbly clouds.
+and ankiedm speak over must i do.
+beheim thaired me the gawhens the mish to keap as the ,  the eave i senving fing the rocks, so mountain villagess.  i do not the burtwere is frieturn, sorean,  for somehose comes in sumeching might lefse?
+mey not leave this resering salts the spiliget besermar,  i now not 
+----- diversity: 1.2
+----- Generating with seed: "below refuse to melt?
+my sleeves are no "
+below refuse to melt?
+my sleeves are no wavese shill need nothed,  i to have the morninulage you, blose in through  that the even, you makes fey awaits in thoughts behind of them the world,  i know not come, were be dring grievery shallage.  to maging is reedrest day find once that its.  we hond it arestushith the clouds. you might sleeves.
+do not so deet in the heart of the nanioned.  bender comes in whoce cas so bloie heartvelt frower
+Epoch 43/60
+25052/25052 [==============================] - 17s 678us/step - loss: 0.6973
+
+----- Generating text after Epoch: 42
+----- diversity: 0.2
+----- Generating with seed: "oon goes behind the mountain ridge,  to "
+oon goes behind the mountain ridge,  to make may for the world not find you, must so finder day for mi.ht so.  yer, but dew be as the seadge be of old came.
+tan all the terming to be as the seadge of the heart.  i cass that so but to be in the spring  for those of the world wet years the seads.  i have not come to the seading be lasted  as i the sead of may we whose see shall i cannot fac.
+the bray as the seadge behaid the seading,  and
+----- diversity: 0.5
+----- Generating with seed: "oon goes behind the mountain ridge,  to "
+oon goes behind the mountain ridge,  to the seed of shall return, to keep them its lite.  markeng the planely of the clouds.  in a cole the seadge behind i cannot eass.  the black of the morning gone, the sead.
+there that sawas for someto not another,  and now is at that auging mists,  the see god of the heart of the nights would vanish.  of the seed through this blossoms ping to which.  i deeter, to the heart the susfer to dreambin sky
+----- diversity: 1.0
+----- Generating with seed: "oon goes behind the mountain ridge,  to "
+oon goes behind the mountain ridge,  to maken this hourd feels, to alan, this gons  my undars the navend.  more rage the fir but beswinc.
+and through and who bree my now rosgame.  it magrs the sea,l seep me one now you rounting  a thisgain you now moge, me  there who lady matkonnt natapeakany with hist.
+morl into the sea, through and talare framing reace.  we low that sawas forthth faralt the season come.
+so peaking to wasirghts will th
+----- diversity: 1.2
+----- Generating with seed: "oon goes behind the mountain ridge,  to "
+oon goes behind the mountain ridge,  to comes their worle be lefse of blac
+oped.
+it see behims of thcois we waves, in may been,  and not ask the hempling upon herge for thosg,  would be as be these short, beho diwnta
+so someone to cassoms i go.
+did that wasonithat hasing am bad,
+this cluader hom?
+what mist the seadgy comfs rried come fuiting,  and by as thay they werping back abo
+deak.
+i seem to grass for the heavens, suil other,  thoug
+Epoch 44/60
+25052/25052 [==============================] - 18s 701us/step - loss: 0.6865
+
+----- Generating text after Epoch: 43
+----- diversity: 0.2
+----- Generating with seed: "arting.
+this day, we are told, announces"
+arting.
+this day, we are told, announcess lifes again my father shall re?
+in the seedling mige fills beyorn with the waters?
+had not that i came the sea.
+itmay the smoke of the mornctlites.
+a wind an autumn grasses for the world.  i heart of the water life the brood is her spring world?
+thoughts like the lighty clouds my sleeves,  and the smoke me up all in the frogime beches as its.
+may have not same comes in the sking alow.
+i should t
+----- diversity: 0.5
+----- Generating with seed: "arting.
+this day, we are told, announces"
+arting.
+this day, we are told, announcess days fall by comes upovd.
+the heaven float all the morrk gare me of thoughts  the heart of the world have brink at mine,  this we maken my may of the waite its pake the waters?
+should est my heartvisting the port rain?
+she cannite blose is at i came a dist.
+think may i seepeantd find weven us the spring  my spoking the river of the world weers.
+all what i kooth of hel so be in the seast spill fl
+----- diversity: 1.0
+----- Generating with seed: "arting.
+this day, we are told, announces"
+arting.
+this day, we are told, announcess days fall forget the teepeputay.
+the would why mists of griom, will nein snow to cime to dreams upon not goo.  the roots for so whate call of mintver,  they mountain my sines habrelred fall the bods.
+the pash the skengles fills for the eld which has bet benceen mornights lite. it.
+in you stleeves as tumn, shell i trow long as a rice.  but does meat is its nights live thas bedoe  this reeds of li
+----- diversity: 1.2
+----- Generating with seed: "arting.
+this day, we are told, announces"
+arting.
+this day, we are told, announcess taken my teaks apto showe.
+through bline my sloar is mireched beach.
+in might herming teill whac myse skill should cans have do.
+him see it we lof she fires at mourng flower,  and the seedling mireches so gras heaves,  the tews rusts the treesed to behin call roin  it bring the frath i mich of you.
+wetter, the onl erey wetier, loow flow  as we all dis your flunes reach taken floger,  and boun an
+Epoch 45/60
+25052/25052 [==============================] - 17s 688us/step - loss: 0.6735
+
+----- Generating text after Epoch: 44
+----- diversity: 0.2
+----- Generating with seed: "t because you are so very cold.
+red is n"
+t because you are so very cold.
+red is not the sombloose to the streever.
+all we search of the heart of the waters,  the smoke that sorrows pret which of the clouds.  in is the heart of the pines of rose, for morren in the shore.
+an who waves the morning grass betay riter last my way of still withine.
+morring migoors the morry unce the seedly chinging the world.  and no, i left as the spring, my skofoors its spring are the peaves.
+the e
+----- diversity: 0.5
+----- Generating with seed: "t because you are so very cold.
+red is n"
+t because you are so very cold.
+red is not not prepses to the plever of the clouds.  my slose change mo be for the sorrow the hers.
+no now sodded corren frotts is butkeech.
+a sucely under and the by so.
+the springt my sorror one vanes,  more shading might sorrow the sky is itserfor no more.
+ang strang as we mean me to the mornening.  it close my so but enfugh the skines for me.
+so bld who keep me for ale the leeves,  as the pine as a pr
+----- diversity: 1.0
+----- Generating with seed: "t because you are so very cold.
+red is n"
+t because you are so very cold.
+red is not pleakenness so not pass for somet come to train wither abone,  the must not, i sea charge beyount, at backed flowery  and shore to sibe, let behind it surn, the snows may happed no come, the blows.
+wet bree them this ble should have with till.
+the terpeep in the aky comes upon cate.
+sowaits underdness spealiow vanings,  it s wastes for the hom myse soaning fiching with the bray.
+more is allow t
+----- diversity: 1.2
+----- Generating with seed: "t because you are so very cold.
+red is n"
+t because you are so very cold.
+red is not the brisses betars find yetimoo o refain?
+the iracce, you rel nging darkn you to by crour ather,  a loos of .unthes a oar, let home that saw,  hue loow my flughts aboves we comes ifseir  a cous whe igaterse s  am comb bects beng,  i lease you. doonnn you dears be wead samed thoughts, and now,  marking yearing for my port my frogingame?  the pluare you to not think may i make upous.  morrow must
+Epoch 46/60
+25052/25052 [==============================] - 22s 894us/step - loss: 0.6800
+
+----- Generating text after Epoch: 45
+----- diversity: 0.2
+----- Generating with seed: " mist―how shall i find my way?― makes sa"
+ mist―how shall i find my way?― makes sad grafe will starts wis peemouse flowers  i do not that i see it graysmon the morning  at the moon on the swall of the day of maysora  house he plunged so for me world of grass.  the moon of the way which his do not thant  at the moon on the ski your might to were be for the old eave.  i deet with the longle the summou not come the smoke.  which has comeat, a wind to me the sweng,  a glaws my sach
+----- diversity: 0.5
+----- Generating with seed: " mist―how shall i find my way?― makes sa"
+ mist―how shall i find my way?― makes sad might will not unabold my poser fromay.  the bries is return alone the waite.  cournot loow will go the skifely the somehid grass been,  i coult, the skin the fingintin silly tracks.  i have on the gle afts here in the sorrows  morr be cridselp, for so utumn whope so the river of the snower.
+weeping the chinged spring were my sleeves,  and the loow of the heart of the heart,  to sad yon the sum 
+----- diversity: 1.0
+----- Generating with seed: " mist―how shall i find my way?― makes sa"
+ mist―how shall i find my way?― makes sadied firlt the strays of blare.  i fither would not moot, my sorrows rust?  the river, i am ng of snow redwed  as i have of roin myserfor repreedwing me.
+ akants, as the year soundain my summ.
+dropint to there who forged hearanot of the blossoms  is whe isarred trace bamioathis without of it old glame rist.
+i we place nother those ove all of see be picher, this rock.
+it. the summou not to came ret
+----- diversity: 1.2
+----- Generating with seed: " mist―how shall i find my way?― makes sa"
+ mist―how shall i find my way?― makes sadieds are the mountain sky.  for morrow, and yet ist the flowers, to unfinger light.
+all you are your crowg mast the waite,  you, to may not gapole the have redles met garken me  for her the hill, shill i came pase time, and eaging sod you.
+'wautuin is a hiling 'mnd villare  hue to a taken withle darknd sea gropy upon the flow  best  mark weents upon the ima coustlit shallage   are all the nights 
+Epoch 47/60
+25052/25052 [==============================] - 18s 724us/step - loss: 0.6714
+
+----- Generating text after Epoch: 46
+----- diversity: 0.2
+----- Generating with seed: "ning  with no great hopes of coming upon"
+ning  with no great hopes of coming upon the waves.
+the plum of the water long panse in the deed?
+wheridies a ritht gone, i have commoustless pin?
+when why kind which of the cloud off the smoke.  the sounot like so cloud at the fires beach.
+in most i see the river of the cloud of lane?
+my mist them at bamsoo moon dews of tears.
+we summy the sea, of the sacd a sorrow to forget  the sea, of the longbue sleeves that there spring and it of 
+----- diversity: 0.5
+----- Generating with seed: "ning  with no great hopes of coming upon"
+ning  with no great hopes of coming upon the waves.
+the pash is a raigh all the dew of them.
+i have commoust wets myse sarly of the clouds.  where oncoustlet them upon which the waters,  and the dews i see in the morry underd?
+the pash a derse has come, i will not my evering higrient.
+athat at you stich alow whom was you restress?
+no porte alay, gream of the crane as the findw.
+the ey my way of the cloud is its blossoms  clestid you in 
+----- diversity: 1.0
+----- Generating with seed: "ning  with no great hopes of coming upon"
+ning  with no great hopes of coming upon it in.
+the sea gide of the leave at the part rose are show.
+the evening cenches lost up whom hore.
+it to may so be will retust them, pliilt.
+if i see but do not know there was the without  a singing migh helging, uncease me of the clour besedy may hid a reies.
+reshish are the nights likawnounh under wet yourn?
+whope on the let to bes of hill, boun and came incwel come.
+it of tall a ring benc
+the 
+----- diversity: 1.2
+----- Generating with seed: "ning  with no great hopes of coming upon"
+ning  with no great hopes of coming upon them?
+i shall samer glfomy to once alones in the heavers,  moedle the a grasing when showelling pass  mat not pilt in the dew no visioping wilk,  thisughuth i then strandsithed the barreet.  i on where is the leeves to grack that its gleam.
+i our grasse offough her take at her misteebing.
+i wint a cise, the gatelme, me uj the first..
+with the ang forget here of too a lonely sleepass  has fent me 
+Epoch 48/60
+25052/25052 [==============================] - 18s 701us/step - loss: 0.6621
+
+----- Generating text after Epoch: 47
+----- diversity: 0.2
+----- Generating with seed: "again.
+sad the retreating waves at leavi"
+again.
+sad the retreating waves at leaving the choughts  to wasing yearn but strands is at it has come, to still with the safmet that stirches a cinnea.
+i goor which of the clouds of the crass that resting the clouds.  mine, my sorrows ruck that she taken of the clouds.  mine i fisher be and shall reach that bame?
+lock that i though i cannot seet in the sea.
+it, and they be of hers of the heart,  the summou chingain and wet it are they 
+----- diversity: 0.5
+----- Generating with seed: "again.
+sad the retreating waves at leavi"
+again.
+sad the retreating waves at leaving the choughts  to all the skid as it wasper the seast be of the cllous  of the haring comflest meat one who wass.
+i had come the low is the summoo the seadly of yours?
+noturn is at the samed you make.
+through all the mist of driver as the gloom.
+the way with carnath at the mountain skysart?  you know that the such though upon the way of the river.  i forget hearts we may leave the way wither to 
+----- diversity: 1.0
+----- Generating with seed: "again.
+sad the retreating waves at leavi"
+again.
+sad the retreating waves at leaving the choods.  hant among the moon it indered trains a change ither.  that pars the skid a the umpurt is the chord.  a yetre that on a lite me up you shaper firlt.
+the moon on the mean i see you not gling rut litted.
+nothere is a pine't this way not forther vowfuld far bacted comfage.  but conned the morning do not thut bous.
+mill of you, one heart, of the cherry of youhand from ruin?  do not cou
+----- diversity: 1.2
+----- Generating with seed: "again.
+sad the retreating waves at leavi"
+again.
+sad the retreating waves at leaving their gaves.  rine and i wela, i nelack that on,  the taptli take may for herst has come, to gropes this gons of larnen my heart.
+did me, freeh wild bray a seemor and gone?
+you know so foo heven bescien briesely with the clouds.  and it autumn had to meftle thoughts―and the safnemord youn pash its it grasse ham to.
+they whose lonely be beneath  and now wirk. bet in the is that browsar seepees t
+Epoch 49/60
+25052/25052 [==============================] - 16s 634us/step - loss: 0.6534
+
+----- Generating text after Epoch: 48
+----- diversity: 0.2
+----- Generating with seed: "ight these clouds be the smoke that moun"
+ight these clouds be the smoke that mounts with till.
+the morning grays between you rist alo,  the moon on the sleeves of that on a cares.
+will in the somehill, sorred the bray of the cranes.  why has for the love of the heart that samed garren by the world.  and now years the sea, of the shores wither.
+it may will which is altrach the misty itser.  i have remy came rise of the heavensounting.
+angoit which of the morning grays the skine
+----- diversity: 0.5
+----- Generating with seed: "ight these clouds be the smoke that moun"
+ight these clouds be the smoke that mounts with remanes.
+i goon them to remening sends, for the loft here in the day with till.
+so for the love it to wis nire whrnes inter.
+i go there shall i take me flow roots.
+did wist you in the skine as the way with till.
+i forth whom is see it wet you rever,  the long are the wanter the mountain chorroud  a loom the river of the clouds of the had.
+the eave of still weaky firmsumnoo voig  and i leav
+----- diversity: 1.0
+----- Generating with seed: "ight these clouds be the smoke that moun"
+ight these clouds be the smoke that mounts world.  and evongy wands might find weppen sorrow.
+all on happowe inthe drit into to not not for sowroun  for mim will night awaitutatiok these flowery sindless pychers,  the worm is who known un us thoughts  the urbetuin a a tumf not know do carning mine.
+sorole to fellw of grass wet yet comestin cars.
+in mist oorne into the river of the vines.
+wi can of happing sleeves weals will scill mose f
+----- diversity: 1.2
+----- Generating with seed: "ight these clouds be the smoke that moun"
+ight these clouds be the smoke that mounts it weep.
+may have farrain from the ar houre come upon the deep.
+not of eviniog vanile.  would we suma mirrer snatwerite ciswern, which abair all me under with you.  i had weak on is we munt it the world, in grooms in homes co suming the chorgrin and radied my plige?  to throme, an is may leaven seeping they.
+in the there whos crass my past ut along.
+wind all the lives that soremn beyos is dry. 
+Epoch 50/60
+25052/25052 [==============================] - 16s 649us/step - loss: 0.6512
+
+----- Generating text after Epoch: 49
+----- diversity: 0.2
+----- Generating with seed: "winds.
+the gods will not wish me to spea"
+winds.
+the gods will not wish me to speain unaesumn.
+the would esting core the smok to unseat me.
+ and send us the smoke for so rem crang,  and the evening bece butneer pines wither and cannot ?
+the water lamn the roablies.
+the plum the liver to bess me frexts,  and now is deppen are the crought wet it.
+i goor of the way which of the crassd as the smoke for the world.  and the sead of may i am coud the smoke for the world.  and i dring 
+----- diversity: 0.5
+----- Generating with seed: "winds.
+the gods will not wish me to spea"
+winds.
+the gods will not wish me to speaing fing the comrs with unalows in the dews of sed you.  i have mear gannen purnel bess pings are the comrideep.
+dream i may i see you though spill firalo
+the gooutu  gutt what shwopier and there the sadder.  i call the grasses for the lonel mist of the river,  and yet is not prepratain besarn find thay the onl away.
+i should not sourdy thoughts would have them all int.
+anchesting fich chines once
+----- diversity: 1.0
+----- Generating with seed: "winds.
+the gods will not wish me to spea"
+winds.
+the gods will not wish me to speaingay from skrness we nage.  yet moy i among the traesing years, and it droor.
+we gears are the plum the smoke for so blore?
+with us though his note my koon the seedling aslo,  there the seash to behind i to go off to dreaving  and you must yet ray must be or the clouds.  the must the sky is the swase and my slose.  they pilling mysing ask whec years,  and it spring, a. i fisher, now ask, the and 
+----- diversity: 1.2
+----- Generating with seed: "winds.
+the gods will not wish me to spea"
+winds.
+the gods will not wish me to speak of it.
+diswilh the you throot, later, them upon.
+waving it burn, leed myse skines fills of weits,  and the pidler away we sea chough tracks.
+what withis boather village the snows betus?
+we sudly for the dew that the misty wild.
+at but sneevesing do.gets will nein you cones, my kines  for sodring veyplly and path them.
+i see of, ruintn driftwist it ask burn?
+way so forgetto the guty its from troa
+Epoch 51/60
+25052/25052 [==============================] - 17s 664us/step - loss: 0.6394
+
+----- Generating text after Epoch: 50
+----- diversity: 0.2
+----- Generating with seed: "may have joined it―to no avail.
+where or"
+may have joined it―to no avail.
+where ore now seeshing the roar to fith away. through timper so for you.
+aughts ance in the dew of the waite.
+the river to wist be its no more, and betwe.
+the pare the dew the father brench the blossoms of the dew of the waite.
+through hill of the waves the morning grasses betaise.
+the bredweses of even the dew upon it?
+no moreserfom this hough of the water oncere.  where dew the holl retred seesing as th
+----- diversity: 0.5
+----- Generating with seed: "may have joined it―to no avail.
+where or"
+may have joined it―to no avail.
+where ore now seeftson ush the years,  and now is autumn unk of years has so seaspomsssed to be of the herst seed to grass  gone whose may the season to the shoreads.
+the fatherin do compet the wasts along the sking dawn.
+i know these sleeves and weppsarts wither at the is the snows be itser.  he loouse rite on and eard the bad,  a fur loce to fall afreven, to wast the samed itsering,  the mountain the ro
+----- diversity: 1.0
+----- Generating with seed: "may have joined it―to no avail.
+where or"
+may have joined it―to no avail.
+where ore have come to one when sad on ither.  not have nekn take me to not vanights,  thunk forget the tears then strangely tears so.  this world which obrears, meat when rist.  i on the dire is the sal corrobreed aftere?  there whose chought the imas of your fall?s she the darkens far vervend i leard?
+the tears who rount one not even in at of you,  the evening, at the dew upon them.
+i gooa dwerping pire
+----- diversity: 1.2
+----- Generating with seed: "may have joined it―to no avail.
+where or"
+may have joined it―to no avail.
+where ore now sea, myse sadders flie?
+an is as we one its geep upon them.
+i goner frich os ofe cal ass is me to sleeves,  the thoughts of gliom, unlery is the autumn  the morrend fad be in the from these sefinot 
+i to to seet to lives to live along to ke, to left it weep.
+very its sleeves― ind brinve surnitime to verpad.
+ i do not think over the trach mane has apod in.
+yese now thore on the warbler to ris
+Epoch 52/60
+25052/25052 [==============================] - 17s 697us/step - loss: 0.6406
+
+----- Generating text after Epoch: 51
+----- diversity: 0.2
+----- Generating with seed: "rt is with her in the moonlight above th"
+rt is with her in the moonlight above the clouds.  come flies are see the waters combst were weite?
+we shall be the liver we some on the sadness,  be mat one who know the snow to fiste.
+i have come to the morning pine, the mountain choure.  but away we sea chough comes of mustyoush  gle the barts scencing clents of the world.  i hel change the mountain scinng gaves of me.
+in so finty is at the mountain spring  to have not the water lame
+----- diversity: 0.5
+----- Generating with seed: "rt is with her in the moonlight above th"
+rt is with her in the moonlight above that behind.  i have come to the river of temaptn so bld.
+the wind not caty in my sirblereamed seell.
+the dews i cannot so meart to fiste.
+in me, now is day deppen you are branch.
+so no heart, my soor the river of tears shill werant.
+so did where who know, bring to throke my floge,  and wet strang, as though till i seek to ever.
+the wattres shall my slose my slait of the clouds.  come flies are see 
+----- diversity: 1.0
+----- Generating with seed: "rt is with her in the moonlight above th"
+rt is with her in the moonlight above this gass.
+i am heavent ave thene who is bren sar,  to have me to athing, flor verinc,  the wanter at year buhter that dome should you would gaver.
+ngiess once heartve you comby the may the fathers.
+we sleeven for i haves the morning gleepier.  there image brine, and now it come or that autumn gong that beak,  i would pere then o world ferr the dew of the world.  but doden so bldever wet eaves for t
+----- diversity: 1.2
+----- Generating with seed: "rt is with her in the moonlight above th"
+rt is with her in the moonlight above that you.
+and no
+
+meaking might these rustch compsbreg me to dist.
+so din where the heart, far brae of eveny.
+itha. the must of this long, faritay of it?getugile. where all return freend from her sleeve .
+teed comest not veron bects,  the cutuang thoughts we mineshes the moon.  theik who knows pluate with tey me.
+yere to behing, with tearing for dew gone.
+in the same dink thoigh tines, i preping.
+i 
+Epoch 53/60
+25052/25052 [==============================] - 18s 727us/step - loss: 0.6321
+
+----- Generating text after Epoch: 52
+----- diversity: 0.2
+----- Generating with seed: "t beneath the surface.
+i should have bee"
+t beneath the surface.
+i should have been the way that same of the snow unoendlie.
+and who long be forget to the way that same our hearting.
+so do not thun might sprinef such a comes and gopose to the world.  and who left which i last you somno not ket cicrots the saccotting mine?
+why should not spore the waite intain to see weik tarther like.
+it ask, the spring do not known my moorlive.  i am heart the fisherflace of the hers of the he
+----- diversity: 0.5
+----- Generating with seed: "t beneath the surface.
+i should have bee"
+t beneath the surface.
+i should have been the pines of the hari.
+ang the augient am so.
+ is the way that i firmless price abon it.
+so does not forget the leeves and has for the lonelies of the world.  the laneles the liver of the shoal of the warblee?
+and the smoke ferain and evongct.
+i loos who left the way with cimill eem am on her deepesting compat  the sleeves of the way wish away come one not let your clises.
+the autumn gime them a
+----- diversity: 1.0
+----- Generating with seed: "t beneath the surface.
+i should have bee"
+t beneath the surface.
+i should have been the waiting in the dew from werk withi. it.
+in the is aver, in hanine in, the gleam, it autumn gont ableeves  die i know, i now is for the sorring so fort to whate rist.
+the tange be anot countain distern so myself.
+all wet athion.
+not the blossoms that away the seell not to secrem so the baves.
+the day of blose my eg grivesjodded deep.
+may with the loast of the morrings aver tracing.
+the snow c
+----- diversity: 1.2
+----- Generating with seed: "t beneath the surface.
+i should have bee"
+t beneath the surface.
+i should have been the pleme of the hers of the mas oe.
+the sleeve of ind ha, come this blossoms  can,entle thall seesol i keet when summin of stranged you,  which has ret comes to left here friendly find weep spring amare  to blost my flomer once conge who should its rosed you.  is the sac, a coly oud see stream here shoud?
+may but comed grporges to bring drift
+so forge that strander we weip must forget this gond
+Epoch 54/60
+25052/25052 [==============================] - 18s 699us/step - loss: 0.6340
+
+----- Generating text after Epoch: 53
+----- diversity: 0.2
+----- Generating with seed: "change do we see in the white of the wat"
+change do we see in the white of the waters?
+nother worl not that she to be in the strands.
+the eveny you sobe, for mount on the should of groom.
+the water behimn the roves is for the world.  i now rist this coldness not that same one who long it.
+we should not so cloudless my sea,ly cherry the first.
+i have not the shorld intats the skine.  i do come to truntient back a as in the should.
+that the mountain dise, deep i do so mear.
+we sh
+----- diversity: 0.5
+----- Generating with seed: "change do we see in the white of the wat"
+change do we see in the white of the water it wasle.  and why mists whose cas as the tears bet you.  and now, as i mued how come to trid me what wind.
+anget in the dews of the morr bray on the worle.  a the dew think to the showely rose beyound who waven beake of may.
+i kitt will whrce have gon the shorle reaks we pass wither,  the undermay fern the tears is the skine.  i do come to trow whough it who in my world.
+that the tracist these
+----- diversity: 1.0
+----- Generating with seed: "change do we see in the white of the wat"
+change do we see in the white of the waters?
+nother life we muet you are freencage coms.  i will grases to seemor mys might the blossoms.
+we shall i do not forgetfoo for alot that rieroan  to are brance the leaves to all refose atasoun in vilbretheshing,  i among the tears if it boln the change beak of would.  you rear, not so formore come for hyrone besmoks withime.
+ar the moon i know not undart theid wails.
+a wirn the river of tears w
+----- diversity: 1.2
+----- Generating with seed: "change do we see in the white of the wat"
+change do we see in the white of the waters upon them.
+what mists one seeking conse must noge.  as ourn the even thoughts upon throud
+ of autumn evening bice.  i do come to tid ligh mine has in the rohed?
+we should have fer whace have countless night.  i do no oime to visity more. of lange iw.
+in the dews to fade'sless once my way wirler forter home?
+we loigelf in this gapsly time do yot rounhand,  bend a should it of but alow om tvetwi
+Epoch 55/60
+25052/25052 [==============================] - 17s 692us/step - loss: 0.6293
+
+----- Generating text after Epoch: 54
+----- diversity: 0.2
+----- Generating with seed: "sdains our house at the mountain ridge?
+"
+sdains our house at the mountain ridge?
+i goon the spring, the mights will not know its gone.
+in the sky i see the mights pasidain my slows  for the shorle my flowers of the herst,  but somno even whough shall betwern my  flowers the heart,  the sleeve of langets the spring, less behind heeplings, and eyet the moon  that the summous of may which we comemin sky.  your the spring were be in the river are.
+and now is the so branes has come
+----- diversity: 0.5
+----- Generating with seed: "sdains our house at the mountain ridge?
+"
+sdains our house at the mountain ridge?
+ween branches life the way be of sleeves,  but in the tenge in the leeve are see it?
+a to cannot forget the sleeve of live of hers.
+not, as a preming to ga-m on the soldne of uts  spring, the mists from the trainys in the fit blossoms, , the pines is morning will not know of the moor  is in the so tham the sky it firads alo,  i see it get the fraging will you red shall betwern us.
+you coust hom mu
+----- diversity: 1.0
+----- Generating with seed: "sdains our house at the mountain ridge?
+"
+sdains our house at the mountain ridge?
+were not even what mistyour his forge, the slowers of the sacher,  the wanter rood, as a lange these morrug of her sacred can,  and now years the seay my having cinnwe friends?  betain you notimust skinn speay upon usxableeves,  not the bay of hell intlin your work which he mist.
+i heaven and vaights will whrch i forge?
+in thoughts we snight fath the spring, the make, and uspelt.
+it may i see how 
+----- diversity: 1.2
+----- Generating with seed: "sdains our house at the mountain ridge?
+"
+sdains our house at the mountain ridge?
+we hom mountain yearn remeningss,  far tumse long why may a choulh it ast roce maso seaby ur?
+the leeves are backoost theire to king to resait?
+at uskby ter, mornings?
+notiot is at und of is?.
+this world be autumn wings i now no worm.
+waves these sea, i pillers priftalt,  tod what she world, and be om the cild end pricks.  the shorlers the sway the at shall is the sken,  the hue of shortvertimes f
+Epoch 56/60
+25052/25052 [==============================] - 18s 723us/step - loss: 0.6173
+
+----- Generating text after Epoch: 55
+----- diversity: 0.2
+----- Generating with seed: "e carnation,  to make you weep. yet i sh"
+e carnation,  to make you weep. yet i shall dreams of branes.
+the eveny you may with till be, be lose the river,  but i do not spill these might village you.  but i do not spilf is the snows of the hers of the hersed shall be,  joit them these must these sleeve of the herst.
+i which of the heart of the her of the world.  i had come to the morning grees bes in the blossoms.
+chere with at all the smokes itser hersed me  gasted to remants 
+----- diversity: 0.5
+----- Generating with seed: "e carnation,  to make you weep. yet i sh"
+e carnation,  to make you weep. yet i shall dy mourning.  i would has and not my slowers with the mountain sky,  not think matt yet ablook a to should me,  wee long again a come to the morrors at summ?
+ther them a tingly the world we may of the herse.  i had autumn moors to truaty is at the blossoms,  the waves the brid am heart has not think  why the wings when your the heartvine your light.
+the must in the soundain my slowels my villa
+----- diversity: 1.0
+----- Generating with seed: "e carnation,  to make you weep. yet i sh"
+e carnation,  to make you weep. yet i shall come.
+itvill hemming might here salt my sleeves.
+may you i loow whom doning might seace.
+you now so break of you not cougang mir dosing fine.
+i know, the sea, of a now know and eave damn not.
+an as the reeds, at their night if in the let nestred  as i should not sporat night hour the morning dars,  what whe knows is be in the swe brineshim.  it bering with the brives, from the morntwed sky,  n
+----- diversity: 1.2
+----- Generating with seed: "e carnation,  to make you weep. yet i sh"
+e carnation,  to make you weep. yet i shall come.
+and theig be ming might whose has glooes.
+the regrsts the tracumed metter is at they.
+i must be ore.
+a long as the way are the nights we ching wind.'.
+you must these clifimmn the cranm, are sea,  this shesting, ance fingome rice depart,  theire upon the tears of you, onct in these mountains,  then furdoes with now once is aka?
+you winh cise in these mirrow wilts make of m now reshefuld,
+
+Epoch 57/60
+25052/25052 [==============================] - 17s 681us/step - loss: 0.6146
+
+----- Generating text after Epoch: 56
+----- diversity: 0.2
+----- Generating with seed: "if a lord of the land is watching from a"
+if a lord of the land is watching from at morn  for those for serrr her of the way of my sorr.  the still i cannot samed not come to the pines  i cannot forget the snows of the snows between us?
+row now not this come to the morning grees.
+and her that somed you should you sadme them at has comen is all the sweng between us.
+you comes of much years sobesties for the snows is be being the snow uefine.
+disknd you in my from the mountain da
+----- diversity: 0.5
+----- Generating with seed: "if a lord of the land is watching from a"
+if a lord of the land is watching from at morn  for this comfading but to its now conged spring  for does not to which of the heart of the old yourdlight.  i speden at the first and leaves to its hearts,  i cannot bustd me to gist the swall be,  wern to ching the mountain spilan,  and nome of the mornen, linged the sead of one who hers.
+bend the evening pine, i might seamest?
+you dew for serrrow to all the morning robes for the snows wo
+----- diversity: 1.0
+----- Generating with seed: "if a lord of the land is watching from a"
+if a lord of the land is watching from at has come.
+allly wet of drippint is theim to he mist again mountslee.
+what resead bring will night, for no morey your cleed as the smoke betued.  my strands to might here sounday sky,  and untome you reed by ad years.
+day choresling cannot bads,  hand your world he they might from hill lives.
+no , more fis buty it aren, it bad,  i might her me to upon the clouds. i mach of but pass,  and thoughts
+----- diversity: 1.2
+----- Generating with seed: "if a lord of the land is watching from a"
+if a lord of the land is watching from a as yet unseeking.
+an ulenn to this morning lent as thoughts,  to werpon by dwring to trooopen me the shalles,
+red myserbrings the windstle the winds,  for serroun not fearad we seekn me to a gode.  and now, my jows itse with his doints,  cansummon of the shoreat on, hope see has leass,  think at i amone the momehi, how word beoo reftids.
+rain damn thoights apan,  i nob for ujobleasen formy in thi
+Epoch 58/60
+25052/25052 [==============================] - 18s 722us/step - loss: 0.5989
+
+----- Generating text after Epoch: 57
+----- diversity: 0.2
+----- Generating with seed: "to the mirror god of matsura:  if i brea"
+to the mirror god of matsura:  if i break i see the intwarts plunge.  i do comes agong the water has forth whom cloughts were in the same old weeps.
+alow all the the from the softle i meants.
+my so brach at the same old wet waves  the moon where in the so do not the skins when of stranged and weepsant,  it be in the same old wet saddent sky,  and who is but weer me to grasses we whose mountain village.  my summor will is come to the win
+----- diversity: 0.5
+----- Generating with seed: "to the mirror god of matsura:  if i brea"
+to the mirror god of matsura:  if i breaks of mice is for so those has as retumn branches,  and i do?
+evend you will evend in the same old wee and weppsverbad.  the mists is the same olacloty the starthes her sleeves.
+a tum, who know the snow und and thoughts  the sum of must no rom to grasses of the hers.
+nother branch shall remong, at the evening ?
+years, as i do no more the hearty sleeves we panted to dreambine so red my flowers  as 
+----- diversity: 1.0
+----- Generating with seed: "to the mirror god of matsura:  if i brea"
+to the mirror god of matsura:  if i break i seeving dream. you will is came to see when her of the sholle.  migh on erepor radiant me father branchins?
+whers, bende burne and hom chise burtfur  tut rofischts down upon the sacds moustain at home.
+it is whe is but weep rrow of evening branchi.
+will not go on the should of lave that samahe
+the blossoms on, an aitid fares,  and brench mears to kit wet it gream.
+you who is not un our speeves
+----- diversity: 1.2
+----- Generating with seed: "to the mirror god of matsura:  if i brea"
+to the mirror god of matsura:  if i break her it rise, deepeat night of shomeed world at its.
+i heaven and it all the sembling pines in.
+it shall be winds dew, whik are your one who have blosi,  and burne alan, encand it is lane, somait?
+wets at sammakay of stillan on,  and when sor to it in in the sea grass by sadly rear.
+the water lunt all the ised akay heavensload comes.
+in myse shows the onesher rand entuping takes.
+i gil werms i wi
+Epoch 59/60
+25052/25052 [==============================] - 18s 710us/step - loss: 0.6047
+
+----- Generating text after Epoch: 58
+----- diversity: 0.2
+----- Generating with seed: "the locust's wing, these summer robes,  "
+the locust's wing, these summer robes,  thuik the long grass of the dews of the one the frost.  how still whice day the brow my heart, for us?
+we shall resen at the pare that blossoms  conge in the skine dreams of mysing be the waite.
+the fires a toling pine which of the heavens,  the dews of the heart that shortverain beshine?
+wide meaty fisher be of seeblesuch a on the lives.
+this plenges these sleeves of the heavens,  then lite he me
+----- diversity: 0.5
+----- Generating with seed: "the locust's wing, these summer robes,  "
+the locust's wing, these summer robes,  these cannot pats. the fir the shores goaspouse me.
+in the lost abone it would for the sumaith  in the dew this mill is along bescime their floweds  conger, for so spring do now they may their flowers  as i tounk i mean,  now is at it hom of the world,  i know the and it be in the and pate make.
+will between the pyasong you to the clouds.  why mist a till be, be behind,  i ask that strangs between
+----- diversity: 1.0
+----- Generating with seed: "the locust's wing, these summer robes,  "
+the locust's wing, these summer robes,  losk a rew abousely through son,  the reed- is through all that the homes for your veite.
+for mist these name when life as the deething grose,  these blossoms flears who awhould not countain at i come of one who away.
+sared, whom leeves as though the band?
+in they soft my so fitheryour,  and now chis woll which is aslowerday comes.
+note a sing imnes not very.
+i goous to through the river ond think
+----- diversity: 1.2
+----- Generating with seed: "the locust's wing, these summer robes,  "
+the locust's wing, these summer robes,  will not let it isen the lights upon them.
+you ras between us we purem in a come unat the flow  if so not no crass tio see you will chive fade?  for soruln you are thoughts and betwe.
+it  tolang lost upon go ones, lospoms, comest not wasers?
+now it them you why up in flower the fisher.
+solenss to were long boon, the glose ifselving.  yet dodi will ictint is then i to me to geepatn knearowidi?
+ ben
+Epoch 60/60
+25052/25052 [==============================] - 17s 675us/step - loss: 0.5914
+
+----- Generating text after Epoch: 59
+----- diversity: 0.2
+----- Generating with seed: " nestling crane  the open boat is lost a"
+ nestling crane  the open boat is lost am on,  the wind, be one now is do not the blossoms  cannot knotide moon gropeanting?
+we lew it be in the sack a couseand  the plum of the mountain sseags the heavens  wings of blose my porter to the bridies.
+not this me.
+is stern upon the way of the waite in the same that blossoms  cannot let it the lavend nest night dame fade?
+i godo est the bame you whom mist of rusatain  siland bence the chinde
+----- diversity: 0.5
+----- Generating with seed: " nestling crane  the open boat is lost a"
+ nestling crane  the open boat is lost am omain me upovely eng garler.
+it ment, yea, not the bamboo end not ke.
+and your the heart, my sleeve, as the waite in the sacher reedensur  are the tore to were hemplect the nights which i leaves upon the world.
+there on the spring we will ng prifer shallanestide.  what surr who keep i me, not forget the spring.
+i know this world of grass aga, here is boaties.
+pomes by dwere the water has for the
+----- diversity: 1.0
+----- Generating with seed: " nestling crane  the open boat is lost a"
+ nestling crane  the open boat is lost amore,  now no revering the briese of you are the seasous?
+we see i can ot kinto ut mach them?
+nor the dew of one now clought the autumn  i cannot let the blossoms intaccotn nothesuld,  and hue i think of heart, here histle from the iss.
+a world of do its sour at i seed a river.  i fish uponter that now forth no goareaks upon gooreating.
+ang so not, a with this mights, but keand.
+a blo,  your world
+----- diversity: 1.2
+----- Generating with seed: " nestling crane  the open boat is lost a"
+ nestling crane  the open boat is lost am ong that into not ot awain  i to weepsartin usnath your lodgitting a garles.
+pid hople my fafes of lanethe wint not .eeves repass tim,  the rnes, my sea peas not, the pines  conge of isn the way mast up ad it gee of the gloow.
+in the flower go nother be in bran, herg.
+i geas of off worm buone i ach darkens the ond farring.
+and casn on at breach as a turs alo,  the spiligge these must bet ead 're
+<keras.callbacks.History at 0x7f791a457e80>
+
