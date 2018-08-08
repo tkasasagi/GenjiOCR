@@ -1,30 +1,45 @@
 from os import listdir
+from skimage import io
+from skimage.filters import threshold_sauvola
+from skimage.color import rgb2gray
+from skimage import img_as_uint
+
+#Get file list in the whole directory
 
 directory = "genjidata/image/"
 
 file_list = listdir(directory)
 
-import matplotlib
-import matplotlib.pyplot as plt
+#Read one image
 
-from skimage.filters import threshold_sauvola
+img = io.imread("dataset/" + file_list[167])
 
-from skimage import io
-
-matplotlib.rcParams['font.size'] = 9
-
-img = io.imread("dataset/" + file_list[34])
-
-from skimage.color import rgb2gray
+#Change image to grayscale
 
 image = rgb2gray(img)
 
-window_size = 21
+#Sauvola parameter
+
+window_size = 39
 k = 0.3
+
+#Sauvola binarization
 
 thresh_sauvola = threshold_sauvola(image, window_size=window_size, k = k)
 
 binary_sauvola = image > thresh_sauvola
+
+#Change boolean matrix to uint
+
+biimg = img_as_uint(binary_sauvola)
+
+#Save file
+
+io.imsave(file_list[167], biimg)
+
+#visualization
+
+import matplotlib.pyplot as plt
 
 plt.figure(figsize=(40, 30))
 
@@ -32,15 +47,4 @@ plt.imshow(binary_sauvola, cmap=plt.cm.gray)
 plt.axis('off')
 
 plt.show()
-#plt.savefig("test.png")
-from skimage import img_as_float
 
-biimg = img_as_float(binary_sauvola)
-
-io.imsave("test.png", biimg)
-
-from skimage import img_as_uint
-
-biimg = img_as_uint(binary_sauvola)
-
-io.imsave("test.png", biimg)
