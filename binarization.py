@@ -33,8 +33,14 @@ plt.axis('off')
 
 plt.show()
 #plt.savefig("test.png")
-from skimage import img_as_ubyte
+from skimage import img_as_float
 
-biimg = img_as_ubyte(binary_sauvola)
+biimg = img_as_float(binary_sauvola)
 
-io.imsave(biimg, "test.png")
+io.imsave("test.png", biimg)
+
+from skimage import img_as_uint
+
+biimg = img_as_uint(binary_sauvola)
+
+io.imsave("test.png", biimg)
