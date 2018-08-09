@@ -3,40 +3,58 @@ from skimage.data import imread
 import matplotlib.pyplot as plt
 
 
-image_file = "binarization2/200003803_00002.jpg"
+image_file = "binarization2/200003803_00055.jpg"
 
 im = imread(image_file)
-
+'''
 print(im)
 
-plt.figure(figsize=(25, 20))
+plt.figure(figsize=(30, 20))
 plt.imshow(im, cmap='gray')
+'''
+shape = im.shape
+print(shape)
 
-print(im.shape)
-
-plt.figure(figsize=(10, 10))
-plt.hist((im).flatten(), bins=100)
-
-#The character has pixel range from 0 - 25
 
 v_hist = (im < 25).mean(axis=0)
 
-plt.figure(figsize=(20, 10))
+'''
+plt.figure(figsize=(30, 20))
 plt.plot(v_hist)
+'''
 
-print(v_hist)
+index = np.where(v_hist == (np.max(v_hist)))
+print(index[0])
 
-from scipy.signal import find_peaks_cwt
+        
+from PIL import Image
+from os import listdir
 
-peaks = find_peaks_cwt(v_hist, np.arange(30, 250))
+directory = "genjidata/image/"
 
-print(peaks)
+file_list = listdir(directory)
 
-plt.figure(figsize=(10, 10))
-plt.imshow(im)
-for peak in peaks:
-    plt.axvline(x=peak)
-plt.show()
+
+
+#Crop and save
+dim = (250, 500, 5000, 3550)
+
+crop_img = im[0:shape[0], int(index[0]):int(shape[1])]
+
+plt.figure(figsize=(30, 20))
+plt.imshow(crop_img, cmap='gray')
+
+
+
+
+for i in range(len(file_list)):
+    image = Image.open((directory + file_list[i]))
+
+    crop_img = image.crop(dim)
+
+    crop_img.save("dataset/" + file_list[i])
+    
+    image.close()
 
 
 
