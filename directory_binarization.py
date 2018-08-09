@@ -22,7 +22,7 @@ for i in range(len(file_list)):
     
     #Sauvola parameter
     
-    window_size = 35
+    window_size = 31
     k = 0.3
     
     #Sauvola binarization
@@ -37,7 +37,7 @@ for i in range(len(file_list)):
     
     #Save file
     
-    io.imsave("binarization/" + file_list[i], biimg)
+    io.imsave("binarization2/" + file_list[i], biimg)
 
 #visualization
 """
