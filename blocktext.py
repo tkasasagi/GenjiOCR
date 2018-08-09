@@ -1,27 +1,177 @@
-from skimage import io
-from scipy import ndimage
-import sys
-
+import numpy as np
+from skimage.data import imread
 import matplotlib.pyplot as plt
 
-image_file = "binarization2/200003803_00002.jpg"
-file_extension = image_file.split(".")[-1]
 
-im = ndimage.imread(image_file)
+image_file = "binarization2/200003803_00002.jpg"
+
+im = imread(image_file)
 
 print(im)
 
+plt.figure(figsize=(25, 20))
+plt.imshow(im, cmap='gray')
+
+print(im.shape)
+
+plt.figure(figsize=(10, 10))
+plt.hist((im).flatten(), bins=100)
+
+#The character has pixel range from 0 - 25
+
+v_hist = (im < 25).mean(axis=0)
+
+plt.figure(figsize=(20, 10))
+plt.plot(v_hist)
+
+print(v_hist)
+
+from scipy.signal import find_peaks_cwt
+
+peaks = find_peaks_cwt(v_hist, np.arange(30, 250))
+
+print(peaks)
+
+plt.figure(figsize=(10, 10))
+plt.imshow(im)
+for peak in peaks:
+    plt.axvline(x=peak)
+plt.show()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # plot the amount of white ink across the columns & rows
-row_vals = list([sum(r) for r in im  ])
+#row_vals = list([sum(r) for r in im  ])
 col_vals = list([sum(c) for c in im.T])
 
 # plot the column (x-axis) pixel dilations
+plt.figure(figsize=(20, 10))
 plt.plot(col_vals)
 plt.show()
 
 # plot the row (y-axis) pixel dilations
-plt.plot(row_vals)
+##plt.show()
+
+from scipy.signal import find_peaks_cwt
+
+peaks = find_peaks_cwt(col_vals, np.arange(10, 500))
+print(peaks)
+
+plt.figure(figsize=(10, 10))
+plt.imshow(im > 25)
+for peak in peaks:
+    plt.axvline(x=peak)
 plt.show()
+
+
+# The really complicated code for bounding boxes
+
+peak_borders = []
+shape = im.shape
+
+# Parameters
+border = 10 # Ignore N pixels from the left
+hist_max = 0.985 # Threshold for detection. hist_max=0.99 means at least 1% of the row/column needs to be black for it to be considered "containing text"
+buffer = 5 # Add N pixels to the bounding box in each direction, just to make sure it surrounds the text
+
+# Repeat for every peak we found above
+for i in range(len(peaks)):
+    # First, we try to find the horizontal boundary of the column (where it starts and ends)
+    
+    # If this is the first peak, then we start the search space `border` pixels into the image, ignoring the edges of the image
+    # Otherwise, we start the search halfway between this peak and the last peak
+    # We need to segment the image initially like this to make sure each bounding box only has one column.
+    # Likewise, we end the search halfway between the peak and the next peak
+    if i == 0:
+        left = border
+    else:
+        left = np.ceil((peaks[i] + peaks[i - 1]) / 2).astype(int)
+   
+    if i == (len(peaks)) - 1:
+        right = shape[1] - border
+    else:
+        right = np.floor((peaks[i] + peaks[i + 1]) / 2).astype(int)
+        
+    print(left, right)
+        
+    # Crop the vertical histogram based on the boundaries set above.
+    mini_hist = col_vals[left:right]
+    
+    # Plot the boundaries. You can see in the plot the histogram dips below the threshold when text is present in the image
+    # It can be confusing because 0=black and 1=white, so a value of 1 means no text present.
+    plt.plot(mini_hist)
+    plt.title('Peak {} horizontal'.format(i))
+    plt.axhline(y=hist_max, color='red')
+    plt.show()
+
+    # Now this finds the actual left and right borders of the text
+    # The left boundary is the first column of pixels to have more than 1.5% black pixels (text)
+    # The right boundary is the last column of pixels to have more than 1.5% black pixels
+    # 5px buffer is also added to the bounding box on each side
+    mini_hist_left = left + (mini_hist < hist_max).argmax() - buffer
+    mini_hist_right = left + len(mini_hist) - (mini_hist[::-1] < hist_max).argmax() + buffer
+    
+    # Now the variables mini_hist_left and mini_hist_right have the left and right boundaries of the column
+    
+    # Crop the image between the new left and right borders and make another histogram but vertically
+    vert_hist = (im[border:-border, mini_hist_left:mini_hist_right, :] > -25).mean(axis=1).mean(axis=1)
+    
+    # Repeat the same as was done horizontally, but instead find the first and last pixel rows to contain more than 1.5% text
+    # This gives us the top and bottom boundaries for the bounding box
+    
+    plt.plot(vert_hist)
+    plt.title('Peak {} vertical'.format(i))
+    plt.axhline(y=hist_max, color='red')
+    plt.show()
+    
+    mini_hist_top = border + (vert_hist < hist_max).argmax() - buffer
+    mini_hist_bottom = border + len(vert_hist) - (vert_hist[::-1] < hist_max).argmax() + buffer
+    
+    # Done!
+    peak_borders.append((mini_hist_left, mini_hist_right, mini_hist_top, mini_hist_bottom))
+
+
+
+import matplotlib.patches as patches
+
+#plt.figure(figsize=(10, 10))
+fig,ax = plt.subplots(1, figsize=(10, 10))
+plt.imshow(im)
+for l, r, t, b in peak_borders:
+    #plt.axvline(x=l, color='blue')
+    #plt.axvline(x=r, color='red')
+    rect = patches.Rectangle((l, t),r - l,b - t,linewidth=1,edgecolor='r',facecolor='none')
+    ax.add_patch(rect)
+plt.show()
+
+
+
+
+
+
 
 from skimage import filters, segmentation
 
