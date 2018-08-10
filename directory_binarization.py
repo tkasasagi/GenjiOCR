@@ -3,6 +3,7 @@ from skimage import io
 from skimage.filters import threshold_sauvola
 from skimage.color import rgb2gray
 from skimage import img_as_uint
+from tqdm import tqdm
 
 #Get file list in the whole directory
 
@@ -10,7 +11,7 @@ directory = "dataset/"
 
 file_list = listdir(directory)
 
-for i in range(len(file_list)):
+for i in tqdm(range(len(file_list))):
 
     #Read one image
     
