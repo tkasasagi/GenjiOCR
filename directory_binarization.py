@@ -38,7 +38,7 @@ for i in tqdm(range(len(file_list))):
     
     #Save file
     
-    io.imsave("binarization2/" + file_list[i], biimg)
+    io.imsave("binarization/" + file_list[i], biimg)
 
 #visualization
 """

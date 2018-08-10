@@ -3,7 +3,7 @@ from skimage.data import imread
 import matplotlib.pyplot as plt
 
 
-image_file = "binarization2/200003803_00055.jpg"
+image_file = "dataset/200003803_00003.jpg"
 
 im = imread(image_file)
 '''
@@ -16,12 +16,12 @@ shape = im.shape
 print(shape)
 
 
-v_hist = (im < 25).mean(axis=0)
+v_hist = (im < 25).mean(axis=0).mean(axis=1)
 
-'''
+
 plt.figure(figsize=(30, 20))
 plt.plot(v_hist)
-'''
+
 
 index = np.where(v_hist == (np.max(v_hist)))
 print(index[0])
