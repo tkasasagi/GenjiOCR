@@ -3,15 +3,15 @@ from skimage.data import imread
 import matplotlib.pyplot as plt
 
 
-image_file = "dataset/200003803_00003.jpg"
+image_file = "dataset2/200003803_00087.jpg"
 
 im = imread(image_file)
-'''
-print(im)
+
+#print(im)
 
 plt.figure(figsize=(30, 20))
 plt.imshow(im, cmap='gray')
-'''
+
 shape = im.shape
 print(shape)
 

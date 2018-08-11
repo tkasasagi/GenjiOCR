@@ -7,7 +7,7 @@ from tqdm import tqdm
 
 #Get file list in the whole directory
 
-directory = "dataset/"
+directory = "dataset2/"
 
 file_list = listdir(directory)
 
@@ -23,7 +23,7 @@ for i in tqdm(range(len(file_list))):
     
     #Sauvola parameter
     
-    window_size = 31
+    window_size = 33
     k = 0.3
     
     #Sauvola binarization
@@ -39,15 +39,34 @@ for i in tqdm(range(len(file_list))):
     #Save file
     
     io.imsave("binarization/" + file_list[i], biimg)
+    
 
-#visualization
-"""
-import matplotlib.pyplot as plt
 
-plt.figure(figsize=(40, 30))
 
-plt.imshow(binary_sauvola, cmap=plt.cm.gray)
-plt.axis('off')
 
-plt.show()
-"""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
