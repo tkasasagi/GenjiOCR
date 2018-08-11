@@ -9,7 +9,7 @@ from os import listdir
 directory = "binarization/"
 
 
-image_file = directory + "200003803_00896.jpg"
+image_file = directory + "200003803_00670.jpg"
 im = imread(image_file)
 
 #Get shape
@@ -32,6 +32,8 @@ v_hist = (im < 25).mean(axis=0)
 
 plt.figure(figsize=(30, 20))
 plt.plot(v_hist)
+
+print(np.max(v_hist))
 
 index = np.where(v_hist == (np.max(v_hist)))
 print(index[0][0])
