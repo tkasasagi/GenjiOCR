@@ -9,7 +9,7 @@ from os import listdir
 directory = "binarization/"
 
 
-image_file = directory + "200003803_00670.jpg"
+image_file = directory + "200003803_00004.jpg"
 im = imread(image_file)
 
 #Get shape

@@ -37,6 +37,15 @@ for i in tqdm(range(len(file_list))):
     #plt.plot(v_hist)
     
     index = np.where(v_hist == (np.max(v_hist)))
-    if (np.max(v_hist) < threshold) or (index[0][0] < 2000):
+    #if (np.max(v_hist) < threshold) or (index[0][0] < 2000):
+    if (np.max(v_hist) < threshold):
         edit_list.append(file_list[i])
     #print(type(index[0]))
+    
+
+    
+import pandas as pd
+
+editlist = pd.DataFrame()
+editlist['list'] = edit_list
+editlist.to_csv("editlist.csv", index = False)

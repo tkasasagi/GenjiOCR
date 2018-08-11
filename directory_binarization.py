@@ -23,7 +23,7 @@ for i in tqdm(range(len(file_list))):
     
     #Sauvola parameter
     
-    window_size = 33
+    window_size = 35
     k = 0.3
     
     #Sauvola binarization
