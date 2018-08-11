@@ -20,13 +20,13 @@ image = rgb2gray(img)
 
 #Sauvola parameter
 
-window_size = 39
+window_size = 35
 k = 0.3
 
 #Sauvola binarization
 
-#thresh_sauvola = threshold_otsu(image, window_size=window_size, k = k)
-thresh_sauvola = threshold_otsu(image)
+thresh_sauvola = threshold_sauvola(image, window_size=window_size, k = k)
+#thresh_sauvola = threshold_otsu(image)
 
 binary_sauvola = image > thresh_sauvola
 
@@ -36,7 +36,7 @@ biimg = img_as_uint(binary_sauvola)
 
 #Save file
 
-#io.imsave(file_list[167], biimg)
+io.imsave("200003803_00002.jpg", biimg)
 
 #visualization
 
