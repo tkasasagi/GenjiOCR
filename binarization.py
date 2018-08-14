@@ -4,15 +4,17 @@ from skimage.filters import threshold_sauvola, threshold_otsu
 from skimage.color import rgb2gray
 from skimage import img_as_uint
 
-#Get file list in the whole directory
+#Get file name
 
 directory = "dataset2/"
 
-file_list = listdir(directory)
+save_directory = "binarization/"
+
+file_name = "200003803_00239.jpg"
 
 #Read one image
 
-img = io.imread(directory + "200003803_00002.jpg")
+img = io.imread(directory + file_name)
 
 #Change image to grayscale
 
@@ -36,10 +38,10 @@ biimg = img_as_uint(binary_sauvola)
 
 #Save file
 
-io.imsave("200003803_00002.jpg", biimg)
+io.imsave(save_directory + file_name, biimg)
 
 #visualization
-
+'''
 import matplotlib.pyplot as plt
 
 plt.figure(figsize=(30, 20))
@@ -57,7 +59,7 @@ v_hist = (binary_sauvola < 25)
 
 plt.figure(figsize=(30, 20))
 plt.plot(v_hist)
-
+'''
 
 
 

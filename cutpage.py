@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 #Get all file list
 from os import listdir
 
-directory = "binarization/"
+directory = "binarization4/"
 
 file_list = listdir(directory)
 
@@ -61,6 +61,7 @@ for i in tqdm(range(len(file_list))):
     #Save
     from skimage import io
     save_name = file_list[i][:-4]
+    print(save_name)
     io.imsave(save_directory + save_name + "_0.jpg", crop_im_right)
     io.imsave(save_directory + save_name + "_1.jpg", crop_im_left)
 
