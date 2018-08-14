@@ -6,15 +6,17 @@ from skimage import img_as_uint
 
 #Get file name
 
-directory = "dataset2/"
+directory = "fix/"
 
-save_directory = "binarization/"
+save_directory = "page/"
 
-file_name = "200003803_00239.jpg"
+file_name = "200003803_00158_0.jpg"
 
 #Read one image
 
 img = io.imread(directory + file_name)
+
+img.shape
 
 #Change image to grayscale
 

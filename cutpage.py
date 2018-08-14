@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 #Get all file list
 from os import listdir
 
-directory = "binarization4/"
+directory = "binarization5/"
 
 file_list = listdir(directory)
 

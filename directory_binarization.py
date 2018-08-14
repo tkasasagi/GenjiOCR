@@ -7,7 +7,7 @@ from tqdm import tqdm
 
 #Get file list in the whole directory
 
-directory = "dataset2/"
+directory = "fix/"
 
 file_list = listdir(directory)
 
@@ -38,7 +38,7 @@ for i in tqdm(range(len(file_list))):
     
     #Save file
     
-    io.imsave("binarization/" + file_list[i], biimg)
+    io.imsave("binarization6/" + file_list[i], biimg)
     
 
 
