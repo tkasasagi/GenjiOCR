@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 #Get all file list
 from os import listdir
 
-directory = "binarization2/"
+directory = "binarization/"
 
 file_list = listdir(directory)
 
@@ -24,9 +24,6 @@ for i in tqdm(range(len(file_list))):
     
     shape = im.shape
     #print(shape)
-    
-    #Crop border
-    im = im[0:shape[0], 450:shape[1] - 100]
     
     #print(im)
     '''
