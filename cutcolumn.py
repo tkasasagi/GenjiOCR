@@ -8,10 +8,10 @@ directory = "page_data/"
 
 save_directory = "column/"
 
-filename = "3891.jpg"
+filename = "3902.jpg"
 
 r_thredhold = 0.03
-c_thredhold = 0.03
+c_thredhold = 0.02
 
 figsize1 = 20
 figsize2 = 10
@@ -38,19 +38,24 @@ end   = index[0][-1] + 50
 c_hist = (im < 25).mean(axis=0)
 
 plt.figure(figsize=(figsize1, figsize2))
+
+
+for i in range(c_hist.shape[0]):
+    if (c_hist[i] < c_thredhold):
+        c_hist[i] = 0
+    
+c_hist = c_hist[np.where(c_hist > 100)]
+c_hist = c_hist[np.where(c_hist < 2100)]
+
 plt.plot(c_hist)
 
 from scipy.signal import find_peaks_cwt
 
-
-
-
-"""
 # This finds all the peaks in the distribution. Actually works really really well.
-peaks = find_peaks_cwt(c_hist, np.arange(20, 60))
+peaks = find_peaks_cwt(c_hist, np.arange(5, 50))
 peaks = peaks[np.where(peaks > 100)]
 peaks = peaks[np.where(peaks < 2100)]
-
+"""
 print(peaks)
 
 plt.figure(figsize=(30, 30))
