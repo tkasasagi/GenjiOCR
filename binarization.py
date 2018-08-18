@@ -8,9 +8,9 @@ from skimage import img_as_uint
 
 directory = "fix/"
 
-save_directory = "page/"
+save_directory = "pages/"
 
-file_name = "200003803_00158_0.jpg"
+file_name = "200003803_01474_0.jpg"
 
 #Read one image
 
