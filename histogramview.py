@@ -6,10 +6,10 @@ import matplotlib.pyplot as plt
 #Get all file list
 from os import listdir
 
-directory = "binarization/"
+directory = "binarized/binarization/"
 
 
-image_file = directory + "200003803_00004.jpg"
+image_file = directory + "200003803_00213.jpg"
 im = imread(image_file)
 
 #Get shape
