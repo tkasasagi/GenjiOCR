@@ -3,7 +3,7 @@ from tqdm import tqdm
 import numpy as np
 from skimage.data import imread
 import matplotlib.pyplot as plt
-
+from skimage import io
 #Get all file list
 from os import listdir
 
@@ -59,7 +59,7 @@ for i in tqdm(range(len(file_list))):
     plt.imshow(crop_im_left, cmap='gray')
     '''
     #Save
-    from skimage import io
+    
     save_name = file_list[i][:-4]
     print(save_name)
     io.imsave(save_directory + save_name + "_0.jpg", crop_im_right)
