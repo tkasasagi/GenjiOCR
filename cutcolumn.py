@@ -9,10 +9,10 @@ directory = "realpages/"
 save_directory = "columns/"
 
 #Read filename
-filename = "1_17.jpg"
+filename = "48_33.jpg"
 
 r_thredhold = 0.03
-c_thredhold = 0.1
+c_thredhold = 0.06
 
 extend_h_border = 80
 extend_v_border = 5
