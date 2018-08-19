@@ -15,7 +15,7 @@ r_thredhold = 0.03
 c_thredhold = 0.1
 
 extend_h_border = 80
-extend_v_border = 20
+extend_v_border = 5
 
 figsize1 = 20
 figsize2 = 10
@@ -81,11 +81,12 @@ for j in range(len(peaks)):
     #cut column
     peak = peaks[count]
     crop_column = im[start:end, peak - extend_h_border: peak + extend_h_border]
-    #plt.figure(figsize=(20, 20))
-    #plt.imshow(crop_column, cmap='gray')
-    save_name = filename[:-4] + "_" + str(j + 1) + ".jpg"
-    #print(save_name)
-    io.imsave(save_directory + save_name, crop_column)
+    if (np.sum(crop_column) < 95200000):
+        #plt.figure(figsize=(20, 20))
+        #plt.imshow(crop_column, cmap='gray')
+        save_name = filename[:-4] + "_" + str(j + 1) + ".jpg"
+        #print(save_name)
+        io.imsave(save_directory + save_name, crop_column)
     count -=1
 
 
