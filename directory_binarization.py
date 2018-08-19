@@ -3,14 +3,15 @@ from skimage import io
 from skimage.filters import threshold_sauvola
 from skimage.color import rgb2gray
 from skimage import img_as_uint
+from tqdm import tqdm
 
 #Get file list in the whole directory
 
-directory = "dataset/"
+directory = "fix/"
 
 file_list = listdir(directory)
 
-for i in range(len(file_list)):
+for i in tqdm(range(len(file_list))):
 
     #Read one image
     
@@ -37,16 +38,35 @@ for i in range(len(file_list)):
     
     #Save file
     
-    io.imsave("binarization/" + file_list[i], biimg)
+    io.imsave("binarization6/" + file_list[i], biimg)
+    
 
-#visualization
-"""
-import matplotlib.pyplot as plt
 
-plt.figure(figsize=(40, 30))
 
-plt.imshow(binary_sauvola, cmap=plt.cm.gray)
-plt.axis('off')
 
-plt.show()
-"""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
