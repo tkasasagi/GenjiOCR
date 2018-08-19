@@ -6,12 +6,16 @@ import matplotlib.pyplot as plt
 
 directory = "realpages/"
 
-save_directory = "column/"
+save_directory = "columns/"
 
+#Read filename
 filename = "39_5.jpg"
 
 r_thredhold = 0.03
 c_thredhold = 0.1
+
+extend_h_border = 80
+extend_v_border = 20
 
 figsize1 = 20
 figsize2 = 10
@@ -57,8 +61,9 @@ peaks = find_peaks_cwt(c_hist, np.arange(12, 300))
 peaks = peaks[np.where(peaks > 200)]
 peaks = peaks[np.where(peaks < 2100)]
 
+'''
+#This just shows all the peaks
 print(peaks)
-
 
 plt.figure(figsize=(15, 15))
 plt.imshow(im > 25, cmap = "gray")
@@ -69,14 +74,19 @@ for peak in peaks:
     plt.axvline(x=peak)
     
 plt.show()
-
-#cut column
-peak = peaks[2]
-crop_column = im[start:end, peak - 70: peak + 70]
-plt.figure(figsize=(30, 30))
-plt.imshow(crop_column, cmap='gray')
-
-
+'''
+#save here. Iterate by number of peaks
+count = len(peaks) - 1
+for j in range(len(peaks)):
+    #cut column
+    peak = peaks[count]
+    crop_column = im[start:end, peak - extend_h_border: peak + extend_h_border]
+    #plt.figure(figsize=(20, 20))
+    #plt.imshow(crop_column, cmap='gray')
+    save_name = filename[:-4] + "_" + str(j + 1) + ".jpg"
+    #print(save_name)
+    io.imsave(save_directory + save_name, crop_column)
+    count -=1
 
 
 
