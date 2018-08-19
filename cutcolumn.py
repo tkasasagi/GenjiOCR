@@ -8,7 +8,7 @@ directory = "realpages/"
 
 save_directory = "column/"
 
-filename = "39_4.jpg"
+filename = "39_5.jpg"
 
 r_thredhold = 0.03
 c_thredhold = 0.1
@@ -31,8 +31,8 @@ plt.plot(v_hist)
 
 index = np.where(v_hist > r_thredhold)
 
-start = index[0][0]  - 50
-end   = index[0][-1] + 50
+start = index[0][0]  - 30
+end   = index[0][-1] + 30
 
 print("start at ", start, " ,end at ", end, " ,total height= ", (end - start))
 #get location of each column
@@ -60,7 +60,7 @@ peaks = peaks[np.where(peaks < 2100)]
 print(peaks)
 
 
-plt.figure(figsize=(30, 30))
+plt.figure(figsize=(15, 15))
 plt.imshow(im > 25, cmap = "gray")
 plt.axhline(y=start, color = "r")
 plt.axhline(y=end, color = "r")
@@ -70,6 +70,11 @@ for peak in peaks:
     
 plt.show()
 
+#cut column
+peak = peaks[2]
+crop_column = im[start:end, peak - 70: peak + 70]
+plt.figure(figsize=(30, 30))
+plt.imshow(crop_column, cmap='gray')
 
 
 
