@@ -9,7 +9,7 @@ directory = "realpages/"
 save_directory = "columns/"
 
 #Read filename
-filename = "39_5.jpg"
+filename = "1_17.jpg"
 
 r_thredhold = 0.03
 c_thredhold = 0.1
@@ -35,8 +35,8 @@ plt.plot(v_hist)
 
 index = np.where(v_hist > r_thredhold)
 
-start = index[0][0]  - 30
-end   = index[0][-1] + 30
+start = index[0][0]  - extend_v_border
+end   = index[0][-1] + extend_v_border
 
 print("start at ", start, " ,end at ", end, " ,total height= ", (end - start))
 #get location of each column
@@ -61,7 +61,7 @@ peaks = find_peaks_cwt(c_hist, np.arange(12, 300))
 peaks = peaks[np.where(peaks > 200)]
 peaks = peaks[np.where(peaks < 2100)]
 
-'''
+
 #This just shows all the peaks
 print(peaks)
 
@@ -74,7 +74,7 @@ for peak in peaks:
     plt.axvline(x=peak)
     
 plt.show()
-'''
+
 #save here. Iterate by number of peaks
 count = len(peaks) - 1
 for j in range(len(peaks)):
