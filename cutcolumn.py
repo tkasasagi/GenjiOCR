@@ -12,10 +12,10 @@ save_directory = "columns/"
 filename = "48_33.jpg"
 
 r_thredhold = 0.03
-c_thredhold = 0.06
+c_thredhold = 0.05
 
-extend_h_border = 80
-extend_v_border = 5
+extend_h_border = 90
+extend_v_border = 10
 
 figsize1 = 20
 figsize2 = 10
